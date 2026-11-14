@@ -1,0 +1,236 @@
+{
+  "benchmark_id": "calculus_v1_retrieval_v1",
+  "source_id": "openstax_calculus_v1",
+  "description": "Text-grounded retrieval benchmark for PDF physical pages 51–100 of OpenStax Calculus Volume 1",
+  "split_method": "Fixed before retrieval evaluation: Q001–Q015 dev, Q016–Q020 test",
+  "evidence_source": "artifacts/pdf_quality/page_XXXX.txt in repository main",
+  "filter_field_note": "section metadata must be assigned from PDF section boundaries in the ingestion pipeline before filter queries can run",
+  "questions": [
+    {
+      "id": "Q001",
+      "type": "direct",
+      "split": "dev",
+      "question": "What is a piecewise-defined function?",
+      "expected_answer": "A function defined by different formulas on different parts of its domain.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 51,
+      "evidence_quote": "Sometimes a function is defined by different formulas on different parts of its domain.",
+      "filter": null
+    },
+    {
+      "id": "Q002",
+      "type": "direct",
+      "split": "dev",
+      "question": "During what hours is the parking garage in Example 1.20 open?",
+      "expected_answer": "From 6 a.m. to midnight.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 52,
+      "evidence_quote": "The parking garage is open from 6 a.m. to 12 midnight.",
+      "filter": null
+    },
+    {
+      "id": "Q003",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "What kind of transformation is produced by shifting a graph horizontally or vertically?",
+      "expected_answer": "A shift is a transformation of a function.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 53,
+      "evidence_quote": "A shift, horizontally or vertically, is a type of transformation of a function.",
+      "filter": null
+    },
+    {
+      "id": "Q004",
+      "type": "direct",
+      "split": "dev",
+      "question": "How is vertical scaling applied to a function graph?",
+      "expected_answer": "Multiply every output of the function by the same positive constant.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 54,
+      "evidence_quote": "A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant.",
+      "filter": null
+    },
+    {
+      "id": "Q005",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "In Section 1.2, which part of a function is multiplied to perform horizontal scaling?",
+      "expected_answer": "The inputs of the function.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 55,
+      "evidence_quote": "The horizontal scaling of a function occurs if we multiply the inputs by the same positive constant.",
+      "filter": {
+        "section": "1.2"
+      }
+    },
+    {
+      "id": "Q006",
+      "type": "conditional",
+      "split": "dev",
+      "question": "When several graph transformations are combined, why must their order be considered?",
+      "expected_answer": "Because graph transformations must be performed in the correct order to obtain the related function graph.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 56,
+      "evidence_quote": "it is important to transform the graph in the correct order.",
+      "filter": null
+    },
+    {
+      "id": "Q007",
+      "type": "direct",
+      "split": "dev",
+      "question": "Name two physical phenomena that can be modeled by trigonometric functions.",
+      "expected_answer": "Sound waves and vibrations of strings (other accepted examples: alternating current and pendulum motion).",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 61,
+      "evidence_quote": "Trigonometric functions are used to model many phenomena, including sound waves, vibrations of strings",
+      "filter": null
+    },
+    {
+      "id": "Q008",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "Besides describing points on circles, what geometric relationship do trigonometric functions express?",
+      "expected_answer": "The relationship between the sides and angles of a triangle.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 62,
+      "evidence_quote": "They also define the relationship among the sides and angles of a triangle.",
+      "filter": null
+    },
+    {
+      "id": "Q009",
+      "type": "direct",
+      "split": "dev",
+      "question": "What is a trigonometric identity?",
+      "expected_answer": "An equation involving trigonometric functions that holds for all angles where the functions are defined.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 66,
+      "evidence_quote": "A trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the functions are defined.",
+      "filter": null
+    },
+    {
+      "id": "Q010",
+      "type": "conditional",
+      "split": "dev",
+      "question": "In Section 1.3, why should you avoid dividing both sides by an expression that could be zero when solving a trigonometric equation?",
+      "expected_answer": "That expression might be zero, so division may remove valid solutions.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 67,
+      "evidence_quote": "we would miss some of the solutions of the original equation.",
+      "filter": {
+        "section": "1.3"
+      }
+    },
+    {
+      "id": "Q011",
+      "type": "direct",
+      "split": "dev",
+      "question": "Why are trigonometric functions called periodic functions?",
+      "expected_answer": "Their values repeat as angles go around the unit circle.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 68,
+      "evidence_quote": "Consequently, the trigonometric functions are periodic functions.",
+      "filter": null
+    },
+    {
+      "id": "Q012",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "What real-world quantity can be modeled using a shifted sine curve?",
+      "expected_answer": "Hours of daylight as a function of the day of the year.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 69,
+      "evidence_quote": "A shifted sine curve arises naturally when graphing the number of hours of daylight",
+      "filter": null
+    },
+    {
+      "id": "Q013",
+      "type": "direct",
+      "split": "dev",
+      "question": "What is the fundamental purpose of an inverse function?",
+      "expected_answer": "It reverses, or undoes, the operation of the original function.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 73,
+      "evidence_quote": "An inverse function reverses the operation done by a particular function.",
+      "filter": null
+    },
+    {
+      "id": "Q014",
+      "type": "direct",
+      "split": "dev",
+      "question": "What does the horizontal line test say about a one-to-one function?",
+      "expected_answer": "Every horizontal line intersects its graph at most once.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 74,
+      "evidence_quote": "A function is one-to-one if and only if every horizontal line intersects the graph of no more than once.",
+      "filter": null
+    },
+    {
+      "id": "Q015",
+      "type": "paraphrase",
+      "split": "dev",
+      "question": "How do the domain and range relate when finding the inverse of a one-to-one function?",
+      "expected_answer": "The inverse maps values in the original range back to values in the original domain.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 77,
+      "evidence_quote": "The inverse function maps each element from the range of back to its corresponding element from the domain of",
+      "filter": null
+    },
+    {
+      "id": "Q016",
+      "type": "conditional",
+      "split": "test",
+      "question": "How can restricting a function’s domain make it possible to define an inverse?",
+      "expected_answer": "Choose a subset of the original domain where the function is one-to-one.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 79,
+      "evidence_quote": "However, we can choose a subset of the domain of such that the function is one-to-one.",
+      "filter": null
+    },
+    {
+      "id": "Q017",
+      "type": "direct",
+      "split": "test",
+      "question": "Why must the domain of a trigonometric function be restricted to define an inverse?",
+      "expected_answer": "Trigonometric functions are periodic and are not one-to-one over their full domains.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 80,
+      "evidence_quote": "The six basic trigonometric functions are periodic, and therefore they are not one-to-one.",
+      "filter": null
+    },
+    {
+      "id": "Q018",
+      "type": "paraphrase",
+      "split": "test",
+      "question": "What distinguishes an exponential function from a power function?",
+      "expected_answer": "An exponential function has a constant base and variable exponent; a power function has a constant exponent.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 88,
+      "evidence_quote": "Exponential functions have constant bases and variable exponents.",
+      "filter": null
+    },
+    {
+      "id": "Q019",
+      "type": "direct",
+      "split": "test",
+      "question": "In Section 1.5, what kind of function is the inverse of an exponential function?",
+      "expected_answer": "A logarithmic function.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 93,
+      "evidence_quote": "Therefore, it has an inverse function, called the logarithmic function with base",
+      "filter": {
+        "section": "1.5"
+      }
+    },
+    {
+      "id": "Q020",
+      "type": "conditional",
+      "split": "test",
+      "question": "According to the Richter scale example, how much more intense is magnitude 8 than magnitude 6?",
+      "expected_answer": "100 times as intense.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 97,
+      "evidence_quote": "the first earthquake is 100 times more intense than the second earthquake.",
+      "filter": null
+    }
+  ]
+}
