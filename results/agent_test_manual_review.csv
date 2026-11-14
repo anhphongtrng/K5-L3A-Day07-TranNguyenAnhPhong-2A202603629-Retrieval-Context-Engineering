@@ -1,0 +1,8 @@
+﻿id,question,answerable,context_evidence_score_0_2,answer_score_0_2,citation_support,abstained,error,notes
+Q016,How can restricting a function’s domain make it possible to define an inverse?,True,2,1,partial,False,,Core answer correct; erroneous claim 'multiple outputs for a single input' reverses non-injectivity. Main cited passage supports domain restriction.
+Q017,Why must the domain of a trigonometric function be restricted to define an inverse?,True,2,2,yes,False,,Periodic trigonometric functions are not one-to-one; domain restriction makes inverse possible. Cited page 80 chunk directly supports answer.
+Q018,What distinguishes an exponential function from a power function?,True,2,2,partial,False,,Correct core distinction constant base/variable exponent vs power function; displayed formulas are not intact in extracted context.
+Q019,"In Section 1.5, what kind of function is the inverse of an exponential function?",True,0,0,n/a,True,,Answerable question; gold relation logarithmic inverse absent from top-3 page 88 chunks. Correct evidence-limited abstention but false abstention under benchmark.
+Q020,"According to the Richter scale example, how much more intense is magnitude 8 than magnitude 6?",True,2,1,partial,False,,100x comparison supported; extraneous 31.6x energy-release claim not present in retrieved context.
+Q023,"According to the indexed material, how is the Hessian matrix used to classify critical points of multivariable functions?",False,0,2,n/a,True,,Out of corpus Hessian query; correctly abstains without citation.
+Q024,"According to the indexed material, how does automatic differentiation compute gradients in neural networks?",False,0,2,n/a,True,,Out of corpus automatic differentiation query; correctly abstains without citation.

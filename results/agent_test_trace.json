@@ -1,0 +1,724 @@
+[
+  {
+    "id": "Q016",
+    "question": "How can restricting a function’s domain make it possible to define an inverse?",
+    "timestamp": "2026-11-14T10:26:32.784665+00:00",
+    "config": {
+      "retrieval_method": "hybrid",
+      "context_mode": "baseline",
+      "strategy": "B",
+      "top_k": 3,
+      "context_budget_chars": 3000,
+      "model": "openai/gpt-4o-mini",
+      "llm_planner_used": false,
+      "max_retrieval_calls": 1
+    },
+    "filter_section": null,
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax_calculus_v1_p0079_s0_paragraph_0000",
+        "page": 79,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.03278688524590164,
+        "content": "1.25 Sketch the graph of and the graph of its inverse using the symmetry property of inverse \nfunctions. \nRestricting Domains \nAs we have seen, does not have an inverse function because it is not one-to-one. However, we can choose a \nsubset of the domain of such that the function is one-to-one. This subset is called a restricted domain. By restricting \nthe domain of we can define a new function such that the domain of is the restricted domain of and \nfor all in the domain of Then we can define a"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax_calculus_v1_p0079_s0_paragraph_0001",
+        "page": 79,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.031754032258064516,
+        "content": "n inverse function for on that domain. For example, since is \none-to-one on the interval ∞ we can define a new function such that the domain of is ∞ and for all \n in its domain. Since is a one-to-one function, it has an inverse function, given by the formula On the \nother hand, the function is also one-to-one on the domain ∞ Therefore, we could also define a new \nfunction such that the domain of is ∞ and for all in the domain of Then is a one-to-one \nfunction and must also have an inverse. Its i"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax_calculus_v1_p0077_s0_paragraph_0000",
+        "page": 77,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.030330882352941176,
+        "content": "Finding a Function’s Inverse \nWe can now consider one-to-one functions and show how to find their inverses. Recall that a function maps elements in \nthe domain of to elements in the range of The inverse function maps each element from the range of back to its \ncorresponding element from the domain of Therefore, to find the inverse function of a one-to-one function given \nany in the range of we need to determine which in the domain of satisfies Since is one-to-one, there \nis exactly one such valu"
+      }
+    ],
+    "selected_chunks": [
+      {
+        "chunk_id": "openstax_calculus_v1_p0079_s0_paragraph_0000",
+        "page": 79,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.03278688524590164
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0079_s0_paragraph_0001",
+        "page": 79,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.031754032258064516
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0077_s0_paragraph_0000",
+        "page": 77,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.030330882352941176
+      }
+    ],
+    "context": "[openstax_calculus_v1_p0079_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 79\nSection: 1.4\nContent:\n1.25 Sketch the graph of and the graph of its inverse using the symmetry property of inverse \nfunctions. \nRestricting Domains \nAs we have seen, does not have an inverse function because it is not one-to-one. However, we can choose a \nsubset of the domain of such that the function is one-to-one. This subset is called a restricted domain. By restricting \nthe domain of we can define a new function such that the domain of is the restricted domain of and \nfor all in the domain of Then we can define a\n\n\n[openstax_calculus_v1_p0079_s0_paragraph_0001]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 79\nSection: 1.4\nContent:\nn inverse function for on that domain. For example, since is \none-to-one on the interval ∞ we can define a new function such that the domain of is ∞ and for all \n in its domain. Since is a one-to-one function, it has an inverse function, given by the formula On the \nother hand, the function is also one-to-one on the domain ∞ Therefore, we could also define a new \nfunction such that the domain of is ∞ and for all in the domain of Then is a one-to-one \nfunction and must also have an inverse. Its i\n\n\n[openstax_calculus_v1_p0077_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 77\nSection: 1.4\nContent:\nFinding a Function’s Inverse \nWe can now consider one-to-one functions and show how to find their inverses. Recall that a function maps elements in \nthe domain of to elements in the range of The inverse function maps each element from the range of back to its \ncorresponding element from the domain of Therefore, to find the inverse function of a one-to-one function given \nany in the range of we need to determine which in the domain of satisfies Since is one-to-one, there \nis exactly one such valu\n",
+    "answer": "Restricting a function's domain can make it possible to define an inverse because it allows the function to become one-to-one. A function that is not one-to-one cannot have an inverse, as there would be multiple outputs for a single input. By selecting a subset of the original domain where the function behaves in a one-to-one manner, we can define a new function with this restricted domain. This new function can then have an inverse defined on that domain. For example, if a function is one-to-one on a specific interval, we can restrict its domain to that interval, allowing us to define an inverse function for it [openstax_calculus_v1_p0079_s0_paragraph_0000].",
+    "raw_answer": "Restricting a function's domain can make it possible to define an inverse because it allows the function to become one-to-one. A function that is not one-to-one cannot have an inverse, as there would be multiple outputs for a single input. By selecting a subset of the original domain where the function behaves in a one-to-one manner, we can define a new function with this restricted domain. This new function can then have an inverse defined on that domain. For example, if a function is one-to-one on a specific interval, we can restrict its domain to that interval, allowing us to define an inverse function for it [openstax_calculus_v1_p0079_s0_paragraph_0000].",
+    "citations": [
+      "openstax_calculus_v1_p0079_s0_paragraph_0000"
+    ],
+    "abstained": false,
+    "citation_validation": "valid_ids",
+    "usage": {
+      "prompt_tokens": 597,
+      "completion_tokens": 145,
+      "total_tokens": 742,
+      "cost": 0.00017655,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00017655,
+        "upstream_inference_prompt_cost": 8.955e-05,
+        "upstream_inference_completions_cost": 8.7e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "error": null,
+    "retrieval_ms": 185.58,
+    "model": "openai/gpt-4o-mini",
+    "answer_ms": 2920.33,
+    "total_latency_ms": 3106.66
+  },
+  {
+    "id": "Q017",
+    "question": "Why must the domain of a trigonometric function be restricted to define an inverse?",
+    "timestamp": "2026-11-14T10:26:35.893310+00:00",
+    "config": {
+      "retrieval_method": "hybrid",
+      "context_mode": "baseline",
+      "strategy": "B",
+      "top_k": 3,
+      "context_budget_chars": 3000,
+      "model": "openai/gpt-4o-mini",
+      "llm_planner_used": false,
+      "max_retrieval_calls": 1
+    },
+    "filter_section": null,
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax_calculus_v1_p0079_s0_paragraph_0000",
+        "page": 79,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.03278688524590164,
+        "content": "1.25 Sketch the graph of and the graph of its inverse using the symmetry property of inverse \nfunctions. \nRestricting Domains \nAs we have seen, does not have an inverse function because it is not one-to-one. However, we can choose a \nsubset of the domain of such that the function is one-to-one. This subset is called a restricted domain. By restricting \nthe domain of we can define a new function such that the domain of is the restricted domain of and \nfor all in the domain of Then we can define a"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax_calculus_v1_p0080_s0_paragraph_0001",
+        "page": 80,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.03200204813108039,
+        "content": "r \nInverse Trigonometric Functions \nThe six basic trigonometric functions are periodic, and therefore they are not one-to-one. However, if we restrict the \ndomain of a trigonometric function to an interval where it is one-to-one, we can define its inverse. Consider the sine \nfunction (Figure 1.34). The sine function is one-to-one on an infinite number of intervals, but the standard convention is \nto restrict the domain to the interval By doing so, we define the inverse sine function on the domai"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax_calculus_v1_p0082_s0_paragraph_0001",
+        "page": 82,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.03149801587301587,
+        "content": "and its inverse. For example, consider the two expressions \n and For the first one, we simplify as follows: \nFor the second one, we have \nThe inverse function is supposed to “undo” the original function, so why isn’t Recalling our definition \nof inverse functions, a function and its inverse satisfy the conditions for all in the domain of \n and for all in the domain of so what happened here? The issue is that the inverse sine function, \n is the inverse of the restricted sine function defined on"
+      }
+    ],
+    "selected_chunks": [
+      {
+        "chunk_id": "openstax_calculus_v1_p0079_s0_paragraph_0000",
+        "page": 79,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.03278688524590164
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0080_s0_paragraph_0001",
+        "page": 80,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.03200204813108039
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0082_s0_paragraph_0001",
+        "page": 82,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.03149801587301587
+      }
+    ],
+    "context": "[openstax_calculus_v1_p0079_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 79\nSection: 1.4\nContent:\n1.25 Sketch the graph of and the graph of its inverse using the symmetry property of inverse \nfunctions. \nRestricting Domains \nAs we have seen, does not have an inverse function because it is not one-to-one. However, we can choose a \nsubset of the domain of such that the function is one-to-one. This subset is called a restricted domain. By restricting \nthe domain of we can define a new function such that the domain of is the restricted domain of and \nfor all in the domain of Then we can define a\n\n\n[openstax_calculus_v1_p0080_s0_paragraph_0001]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 80\nSection: 1.4\nContent:\nr \nInverse Trigonometric Functions \nThe six basic trigonometric functions are periodic, and therefore they are not one-to-one. However, if we restrict the \ndomain of a trigonometric function to an interval where it is one-to-one, we can define its inverse. Consider the sine \nfunction (Figure 1.34). The sine function is one-to-one on an infinite number of intervals, but the standard convention is \nto restrict the domain to the interval By doing so, we define the inverse sine function on the domai\n\n\n[openstax_calculus_v1_p0082_s0_paragraph_0001]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 82\nSection: 1.4\nContent:\nand its inverse. For example, consider the two expressions \n and For the first one, we simplify as follows: \nFor the second one, we have \nThe inverse function is supposed to “undo” the original function, so why isn’t Recalling our definition \nof inverse functions, a function and its inverse satisfy the conditions for all in the domain of \n and for all in the domain of so what happened here? The issue is that the inverse sine function, \n is the inverse of the restricted sine function defined on\n",
+    "answer": "The domain of a trigonometric function must be restricted to define an inverse because the basic trigonometric functions are periodic and therefore not one-to-one over their entire domains. By restricting the domain to an interval where the function is one-to-one, we can define its inverse. For example, the sine function can be made one-to-one by restricting its domain to a specific interval, allowing us to define the inverse sine function on that restricted domain [openstax_calculus_v1_p0080_s0_paragraph_0001].",
+    "raw_answer": "The domain of a trigonometric function must be restricted to define an inverse because the basic trigonometric functions are periodic and therefore not one-to-one over their entire domains. By restricting the domain to an interval where the function is one-to-one, we can define its inverse. For example, the sine function can be made one-to-one by restricting its domain to a specific interval, allowing us to define the inverse sine function on that restricted domain [openstax_calculus_v1_p0080_s0_paragraph_0001].",
+    "citations": [
+      "openstax_calculus_v1_p0080_s0_paragraph_0001"
+    ],
+    "abstained": false,
+    "citation_validation": "valid_ids",
+    "usage": {
+      "prompt_tokens": 586,
+      "completion_tokens": 108,
+      "total_tokens": 694,
+      "cost": 0.0001527,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001527,
+        "upstream_inference_prompt_cost": 8.79e-05,
+        "upstream_inference_completions_cost": 6.48e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "error": null,
+    "retrieval_ms": 66.7,
+    "model": "openai/gpt-4o-mini",
+    "answer_ms": 2409.18,
+    "total_latency_ms": 2477.44
+  },
+  {
+    "id": "Q018",
+    "question": "What distinguishes an exponential function from a power function?",
+    "timestamp": "2026-11-14T10:26:38.374008+00:00",
+    "config": {
+      "retrieval_method": "hybrid",
+      "context_mode": "baseline",
+      "strategy": "B",
+      "top_k": 3,
+      "context_budget_chars": 3000,
+      "model": "openai/gpt-4o-mini",
+      "llm_planner_used": false,
+      "max_retrieval_calls": 1
+    },
+    "filter_section": null,
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0003",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03278688524590164,
+        "content": "exponent x. Exponential functions have constant bases and variable exponents. \nNote that a function of the form for some constant is not an exponential function but a power function. \nTo see the difference between an exponential function and a power function, we compare the functions and \n In Table 1.10, we see that both and approach infinity as ∞ Eventually, however, becomes larger \nthan and grows more rapidly as ∞ In the opposite direction, as ∞ ∞ whereas The line \n is a horizontal asymptote"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0002",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03128054740957967,
+        "content": "the functions have the same properties with either definition.) \nExponential Functions \nExponential functions arise in many applications. One common example is population growth. \nFor example, if a population starts with individuals and then grows at an annual rate of its population after 1 year \nis \nIts population after 2 years is \nIn general, its population after years is \nwhich is an exponential function. More generally, any function of the form where is an \nexponential function with base and"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax_calculus_v1_p0091_s0_paragraph_0000",
+        "page": 91,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.030309988518943745,
+        "content": "b. We can simplify as follows: \n 1.28 Use the laws of exponents to simplify \nThe Number e \nA special type of exponential function appears frequently in real-world applications. To describe it, consider the following \nexample of exponential growth, which arises from compounding interest in a savings account. Suppose a person invests \n dollars in a savings account with an annual interest rate compounded annually. The amount of money after 1 year is \nThe amount of money after years is \nMore general"
+      }
+    ],
+    "selected_chunks": [
+      {
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0003",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03278688524590164
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0002",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03128054740957967
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0091_s0_paragraph_0000",
+        "page": 91,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.030309988518943745
+      }
+    ],
+    "context": "[openstax_calculus_v1_p0088_s0_paragraph_0003]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 88\nSection: 1.5\nContent:\nexponent x. Exponential functions have constant bases and variable exponents. \nNote that a function of the form for some constant is not an exponential function but a power function. \nTo see the difference between an exponential function and a power function, we compare the functions and \n In Table 1.10, we see that both and approach infinity as ∞ Eventually, however, becomes larger \nthan and grows more rapidly as ∞ In the opposite direction, as ∞ ∞ whereas The line \n is a horizontal asymptote\n\n\n[openstax_calculus_v1_p0088_s0_paragraph_0002]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 88\nSection: 1.5\nContent:\nthe functions have the same properties with either definition.) \nExponential Functions \nExponential functions arise in many applications. One common example is population growth. \nFor example, if a population starts with individuals and then grows at an annual rate of its population after 1 year \nis \nIts population after 2 years is \nIn general, its population after years is \nwhich is an exponential function. More generally, any function of the form where is an \nexponential function with base and\n\n\n[openstax_calculus_v1_p0091_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 91\nSection: 1.5\nContent:\nb. We can simplify as follows: \n 1.28 Use the laws of exponents to simplify \nThe Number e \nA special type of exponential function appears frequently in real-world applications. To describe it, consider the following \nexample of exponential growth, which arises from compounding interest in a savings account. Suppose a person invests \n dollars in a savings account with an annual interest rate compounded annually. The amount of money after 1 year is \nThe amount of money after years is \nMore general\n",
+    "answer": "An exponential function is distinguished from a power function by having a constant base and a variable exponent. In contrast, a power function has a variable base and a constant exponent. Specifically, an exponential function can be expressed in the form \\( a^x \\) where \\( a \\) is a constant, while a power function is of the form \\( x^n \\) where \\( n \\) is a constant [openstax_calculus_v1_p0088_s0_paragraph_0003].",
+    "raw_answer": "An exponential function is distinguished from a power function by having a constant base and a variable exponent. In contrast, a power function has a variable base and a constant exponent. Specifically, an exponential function can be expressed in the form \\( a^x \\) where \\( a \\) is a constant, while a power function is of the form \\( x^n \\) where \\( n \\) is a constant [openstax_calculus_v1_p0088_s0_paragraph_0003].",
+    "citations": [
+      "openstax_calculus_v1_p0088_s0_paragraph_0003"
+    ],
+    "abstained": false,
+    "citation_validation": "valid_ids",
+    "usage": {
+      "prompt_tokens": 560,
+      "completion_tokens": 101,
+      "total_tokens": 661,
+      "cost": 0.0001446,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001446,
+        "upstream_inference_prompt_cost": 8.4e-05,
+        "upstream_inference_completions_cost": 6.06e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "error": null,
+    "retrieval_ms": 65.67,
+    "model": "openai/gpt-4o-mini",
+    "answer_ms": 2083.32,
+    "total_latency_ms": 2150.14
+  },
+  {
+    "id": "Q019",
+    "question": "In Section 1.5, what kind of function is the inverse of an exponential function?",
+    "timestamp": "2026-11-14T10:26:40.527148+00:00",
+    "config": {
+      "retrieval_method": "hybrid",
+      "context_mode": "baseline",
+      "strategy": "B",
+      "top_k": 3,
+      "context_budget_chars": 3000,
+      "model": "openai/gpt-4o-mini",
+      "llm_planner_used": false,
+      "max_retrieval_calls": 1
+    },
+    "filter_section": "1.5",
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0000",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03252247488101534,
+        "content": "1.5 Exponential and Logarithmic Functions \nLearning Objectives \n1.5.1 Identify the form of an exponential function. \n1.5.2 Explain the difference between the graphs of and \n1.5.3 Recognize the significance of the number \n1.5.4 Identify the form of a logarithmic function. \n1.5.5 Explain the relationship between exponential and logarithmic functions. \n1.5.6 Describe how to calculate a logarithm to a different base. \n1.5.7 Identify the hyperbolic functions, their graphs, and basic identities. \nIn t"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0003",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03125763125763126,
+        "content": "exponent x. Exponential functions have constant bases and variable exponents. \nNote that a function of the form for some constant is not an exponential function but a power function. \nTo see the difference between an exponential function and a power function, we compare the functions and \n In Table 1.10, we see that both and approach infinity as ∞ Eventually, however, becomes larger \nthan and grows more rapidly as ∞ In the opposite direction, as ∞ ∞ whereas The line \n is a horizontal asymptote"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0002",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.030621785881252923,
+        "content": "the functions have the same properties with either definition.) \nExponential Functions \nExponential functions arise in many applications. One common example is population growth. \nFor example, if a population starts with individuals and then grows at an annual rate of its population after 1 year \nis \nIts population after 2 years is \nIn general, its population after years is \nwhich is an exponential function. More generally, any function of the form where is an \nexponential function with base and"
+      }
+    ],
+    "selected_chunks": [
+      {
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0000",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03252247488101534
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0003",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03125763125763126
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0088_s0_paragraph_0002",
+        "page": 88,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.030621785881252923
+      }
+    ],
+    "context": "[openstax_calculus_v1_p0088_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 88\nSection: 1.5\nContent:\n1.5 Exponential and Logarithmic Functions \nLearning Objectives \n1.5.1 Identify the form of an exponential function. \n1.5.2 Explain the difference between the graphs of and \n1.5.3 Recognize the significance of the number \n1.5.4 Identify the form of a logarithmic function. \n1.5.5 Explain the relationship between exponential and logarithmic functions. \n1.5.6 Describe how to calculate a logarithm to a different base. \n1.5.7 Identify the hyperbolic functions, their graphs, and basic identities. \nIn t\n\n\n[openstax_calculus_v1_p0088_s0_paragraph_0003]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 88\nSection: 1.5\nContent:\nexponent x. Exponential functions have constant bases and variable exponents. \nNote that a function of the form for some constant is not an exponential function but a power function. \nTo see the difference between an exponential function and a power function, we compare the functions and \n In Table 1.10, we see that both and approach infinity as ∞ Eventually, however, becomes larger \nthan and grows more rapidly as ∞ In the opposite direction, as ∞ ∞ whereas The line \n is a horizontal asymptote\n\n\n[openstax_calculus_v1_p0088_s0_paragraph_0002]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 88\nSection: 1.5\nContent:\nthe functions have the same properties with either definition.) \nExponential Functions \nExponential functions arise in many applications. One common example is population growth. \nFor example, if a population starts with individuals and then grows at an annual rate of its population after 1 year \nis \nIts population after 2 years is \nIn general, its population after years is \nwhich is an exponential function. More generally, any function of the form where is an \nexponential function with base and\n",
+    "answer": "The provided documents do not contain sufficient evidence to answer this question.",
+    "raw_answer": "The provided documents do not contain sufficient evidence to answer this question.",
+    "citations": [],
+    "abstained": true,
+    "citation_validation": "abstained",
+    "usage": {
+      "prompt_tokens": 594,
+      "completion_tokens": 13,
+      "total_tokens": 607,
+      "cost": 9.69e-05,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 9.69e-05,
+        "upstream_inference_prompt_cost": 8.91e-05,
+        "upstream_inference_completions_cost": 7.8e-06
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "error": null,
+    "retrieval_ms": 76.78,
+    "model": "openai/gpt-4o-mini",
+    "answer_ms": 960.33,
+    "total_latency_ms": 1037.74
+  },
+  {
+    "id": "Q020",
+    "question": "According to the Richter scale example, how much more intense is magnitude 8 than magnitude 6?",
+    "timestamp": "2026-11-14T10:26:41.566501+00:00",
+    "config": {
+      "retrieval_method": "hybrid",
+      "context_mode": "baseline",
+      "strategy": "B",
+      "top_k": 3,
+      "context_budget_chars": 3000,
+      "model": "openai/gpt-4o-mini",
+      "llm_planner_used": false,
+      "max_retrieval_calls": 1
+    },
+    "filter_section": null,
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax_calculus_v1_p0096_s0_paragraph_0002",
+        "page": 96,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03252247488101534,
+        "content": "now known as the Richter scale) to measure the magnitude of an earthquake. \nThe scale is a base-10 logarithmic scale, and it can be described as follows: Consider one earthquake with magnitude \non the Richter scale and a second earthquake with magnitude on the Richter scale. Suppose which means \nthe earthquake of magnitude is stronger, but how much stronger is it than the other earthquake? A way of \nmeasuring the intensity of an earthquake is by using a seismograph to measure the amplitude of th"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax_calculus_v1_p0097_s0_paragraph_0000",
+        "page": 97,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03252247488101534,
+        "content": "Consider an earthquake that measures 8 on the Richter scale and an earthquake that measures 7 on the Richter scale. \nThen, \nTherefore, \nwhich implies or Since is 10 times the size of we say that the first earthquake is 10 \ntimes as intense as the second earthquake. On the other hand, if one earthquake measures 8 on the Richter scale and \nanother measures 6, then the relative intensity of the two earthquakes satisfies the equation \nTherefore, That is, the first earthquake is 100 times more intens"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax_calculus_v1_p0097_s0_paragraph_0001",
+        "page": 97,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.031746031746031744,
+        "content": "e than the second earthquake. \nHow can we use logarithmic functions to compare the relative severity of the magnitude 9 earthquake in Japan in 2011 \nwith the magnitude 7.3 earthquake in Haiti in 2010? \nSolution \nTo compare the Japan and Haiti earthquakes, we can use an equation presented earlier: \nTherefore, and we conclude that the earthquake in Japan was approximately times more intense than \nthe earthquake in Haiti. \n 1.33 Compare the relative severity of a magnitude earthquake with a magnitu"
+      }
+    ],
+    "selected_chunks": [
+      {
+        "chunk_id": "openstax_calculus_v1_p0096_s0_paragraph_0002",
+        "page": 96,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03252247488101534
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0097_s0_paragraph_0000",
+        "page": 97,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.03252247488101534
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0097_s0_paragraph_0001",
+        "page": 97,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.5",
+        "score": 0.031746031746031744
+      }
+    ],
+    "context": "[openstax_calculus_v1_p0096_s0_paragraph_0002]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 96\nSection: 1.5\nContent:\nnow known as the Richter scale) to measure the magnitude of an earthquake. \nThe scale is a base-10 logarithmic scale, and it can be described as follows: Consider one earthquake with magnitude \non the Richter scale and a second earthquake with magnitude on the Richter scale. Suppose which means \nthe earthquake of magnitude is stronger, but how much stronger is it than the other earthquake? A way of \nmeasuring the intensity of an earthquake is by using a seismograph to measure the amplitude of th\n\n\n[openstax_calculus_v1_p0097_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 97\nSection: 1.5\nContent:\nConsider an earthquake that measures 8 on the Richter scale and an earthquake that measures 7 on the Richter scale. \nThen, \nTherefore, \nwhich implies or Since is 10 times the size of we say that the first earthquake is 10 \ntimes as intense as the second earthquake. On the other hand, if one earthquake measures 8 on the Richter scale and \nanother measures 6, then the relative intensity of the two earthquakes satisfies the equation \nTherefore, That is, the first earthquake is 100 times more intens\n\n\n[openstax_calculus_v1_p0097_s0_paragraph_0001]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 97\nSection: 1.5\nContent:\ne than the second earthquake. \nHow can we use logarithmic functions to compare the relative severity of the magnitude 9 earthquake in Japan in 2011 \nwith the magnitude 7.3 earthquake in Haiti in 2010? \nSolution \nTo compare the Japan and Haiti earthquakes, we can use an equation presented earlier: \nTherefore, and we conclude that the earthquake in Japan was approximately times more intense than \nthe earthquake in Haiti. \n 1.33 Compare the relative severity of a magnitude earthquake with a magnitu\n",
+    "answer": "According to the evidence, an earthquake measuring 8 on the Richter scale is 100 times more intense than an earthquake measuring 6 on the Richter scale. This is derived from the logarithmic nature of the Richter scale, where each whole number increase represents a tenfold increase in measured amplitude and roughly 31.6 times more energy release. Therefore, the intensity difference between magnitudes 8 and 6 is calculated as follows: \\(10^{(8-6)} = 10^2 = 100\\) times more intense [openstax_calculus_v1_p0097_s0_paragraph_0000].",
+    "raw_answer": "According to the evidence, an earthquake measuring 8 on the Richter scale is 100 times more intense than an earthquake measuring 6 on the Richter scale. This is derived from the logarithmic nature of the Richter scale, where each whole number increase represents a tenfold increase in measured amplitude and roughly 31.6 times more energy release. Therefore, the intensity difference between magnitudes 8 and 6 is calculated as follows: \\(10^{(8-6)} = 10^2 = 100\\) times more intense [openstax_calculus_v1_p0097_s0_paragraph_0000].",
+    "citations": [
+      "openstax_calculus_v1_p0097_s0_paragraph_0000"
+    ],
+    "abstained": false,
+    "citation_validation": "valid_ids",
+    "usage": {
+      "prompt_tokens": 578,
+      "completion_tokens": 126,
+      "total_tokens": 704,
+      "cost": 0.0001623,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001623,
+        "upstream_inference_prompt_cost": 8.67e-05,
+        "upstream_inference_completions_cost": 7.56e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "error": null,
+    "retrieval_ms": 64.68,
+    "model": "openai/gpt-4o-mini",
+    "answer_ms": 3394.54,
+    "total_latency_ms": 3460.32
+  },
+  {
+    "id": "Q023",
+    "question": "According to the indexed material, how is the Hessian matrix used to classify critical points of multivariable functions?",
+    "timestamp": "2026-11-14T10:26:45.030998+00:00",
+    "config": {
+      "retrieval_method": "hybrid",
+      "context_mode": "baseline",
+      "strategy": "B",
+      "top_k": 3,
+      "context_budget_chars": 3000,
+      "model": "openai/gpt-4o-mini",
+      "llm_planner_used": false,
+      "max_retrieval_calls": 1
+    },
+    "filter_section": null,
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0000",
+        "page": 61,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.3",
+        "score": 0.028790389395194696,
+        "content": "1.3 Trigonometric Functions \nLearning Objectives \n1.3.1 Convert angle measures between degrees and radians. \n1.3.2 Recognize the triangular and circular definitions of the basic trigonometric functions. \n1.3.3 Write the basic trigonometric identities. \n1.3.4 Identify the graphs and periods of the trigonometric functions. \n1.3.5 Describe the shift of a sine or cosine graph from the equation of the function. \nTrigonometric functions are used to model many phenomena, including sound waves, vibratio"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax_calculus_v1_p0086_s0_paragraph_0000",
+        "page": 86,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.028531243721117136,
+        "content": "197 . \n 198 . \nFor the following exercises, use composition to determine which pairs of functions are inverses. \n199 . 200 . 201 . \n202 . 203 . \n204 . 205 . \n206 . \nFor the following exercises, evaluate the functions. Give the exact value. \n207 . 208 . 209 . \n210 . 211 . 212 . \n213 . 214 . 215 . \n216 . The function \nconverts degrees \nFahrenheit to degrees \nCelsius. \na. Find the inverse \nfunction \nb. What is the inverse \nfunction used for? \n 217 . [T] The velocity V (in \ncentimeters per second) o"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax_calculus_v1_p0058_s0_paragraph_0000",
+        "page": 58,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.2",
+        "score": 0.02844163539403516,
+        "content": "1.16 Describe how the function can be graphed using the graph of and a \nsequence of transformations. \n SECTION 1.2 EXERCISES \nFor the following exercises, for each pair of points, a. find the slope of the line passing through the points and b. indicate \nwhether the line is increasing, decreasing, horizontal, or vertical. \n59 . and 60 . and 61 . and \n62 . and 63 . and 64 . and \n65 . and 66 . and \nFor the following exercises, write the equation of the line satisfying the given conditions in slope-"
+      }
+    ],
+    "selected_chunks": [
+      {
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0000",
+        "page": 61,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.3",
+        "score": 0.028790389395194696
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0086_s0_paragraph_0000",
+        "page": 86,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.4",
+        "score": 0.028531243721117136
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0058_s0_paragraph_0000",
+        "page": 58,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.2",
+        "score": 0.02844163539403516
+      }
+    ],
+    "context": "[openstax_calculus_v1_p0061_s1_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 61\nSection: 1.3\nContent:\n1.3 Trigonometric Functions \nLearning Objectives \n1.3.1 Convert angle measures between degrees and radians. \n1.3.2 Recognize the triangular and circular definitions of the basic trigonometric functions. \n1.3.3 Write the basic trigonometric identities. \n1.3.4 Identify the graphs and periods of the trigonometric functions. \n1.3.5 Describe the shift of a sine or cosine graph from the equation of the function. \nTrigonometric functions are used to model many phenomena, including sound waves, vibratio\n\n\n[openstax_calculus_v1_p0086_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 86\nSection: 1.4\nContent:\n197 . \n 198 . \nFor the following exercises, use composition to determine which pairs of functions are inverses. \n199 . 200 . 201 . \n202 . 203 . \n204 . 205 . \n206 . \nFor the following exercises, evaluate the functions. Give the exact value. \n207 . 208 . 209 . \n210 . 211 . 212 . \n213 . 214 . 215 . \n216 . The function \nconverts degrees \nFahrenheit to degrees \nCelsius. \na. Find the inverse \nfunction \nb. What is the inverse \nfunction used for? \n 217 . [T] The velocity V (in \ncentimeters per second) o\n\n\n[openstax_calculus_v1_p0058_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 58\nSection: 1.2\nContent:\n1.16 Describe how the function can be graphed using the graph of and a \nsequence of transformations. \n SECTION 1.2 EXERCISES \nFor the following exercises, for each pair of points, a. find the slope of the line passing through the points and b. indicate \nwhether the line is increasing, decreasing, horizontal, or vertical. \n59 . and 60 . and 61 . and \n62 . and 63 . and 64 . and \n65 . and 66 . and \nFor the following exercises, write the equation of the line satisfying the given conditions in slope-\n",
+    "answer": "The provided documents do not contain sufficient evidence to answer this question.",
+    "raw_answer": "The provided documents do not contain sufficient evidence to answer this question.",
+    "citations": [],
+    "abstained": true,
+    "citation_validation": "abstained",
+    "usage": {
+      "prompt_tokens": 654,
+      "completion_tokens": 13,
+      "total_tokens": 667,
+      "cost": 0.0001059,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001059,
+        "upstream_inference_prompt_cost": 9.81e-05,
+        "upstream_inference_completions_cost": 7.8e-06
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "error": null,
+    "retrieval_ms": 79.05,
+    "model": "openai/gpt-4o-mini",
+    "answer_ms": 906.92,
+    "total_latency_ms": 986.75
+  },
+  {
+    "id": "Q024",
+    "question": "According to the indexed material, how does automatic differentiation compute gradients in neural networks?",
+    "timestamp": "2026-11-14T10:26:46.020022+00:00",
+    "config": {
+      "retrieval_method": "hybrid",
+      "context_mode": "baseline",
+      "strategy": "B",
+      "top_k": 3,
+      "context_budget_chars": 3000,
+      "model": "openai/gpt-4o-mini",
+      "llm_planner_used": false,
+      "max_retrieval_calls": 1
+    },
+    "filter_section": null,
+    "retrieved": [
+      {
+        "rank": 1,
+        "chunk_id": "openstax_calculus_v1_p0061_s0_paragraph_0001",
+        "page": 61,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.2",
+        "score": 0.02701252236135957,
+        "content": "es to type a \n20-page assignment. \n 111 . [T] The output (as a \npercent of total capacity) \nof nuclear power plants in \nthe United States can be \nmodeled by the function \nwhere t is time in years \nand corresponds to \nthe beginning of 2000. \nUse the model to predict \nthe approximate \npercentage output at the \nbeginning of 2015. \n 112 . [T] The admissions office \nat a public university \nestimates that 65% of the \nstudents offered \nadmission to the class of \n2019 will actually enroll. \na. Find the"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "openstax_calculus_v1_p0060_s0_paragraph_0003",
+        "page": 60,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.2",
+        "score": 0.026597524255603883,
+        "content": "ar was purchased \nfor $26,000. The value of \nthe car depreciates by \n$1500 per year. \na. Find a linear function \nthat models the value \nV of the car after t \nyears. \nb. Find and interpret \n 108 . [T] A condominium in an \nupscale part of the city \nwas purchased for \n$432,000. In 35 years it is \nworth $60,500. Find the \nrate of depreciation. \n 109 . [T] The total cost C to \nproduce a certain item is \nmodeled by the function \nwhere x is the number of \nitems produced. \nDetermine the cost to \nproduce"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "openstax_calculus_v1_p0066_s0_paragraph_0001",
+        "page": 66,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.3",
+        "score": 0.026397515527950312,
+        "content": "nst a house. If the angle between the base of the ladder \nand the ground is to be how far from the house should she place the base of the ladder? \nTrigonometric Identities \nA trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the \nfunctions are defined. We can use the identities to help us solve or simplify equations. The main trigonometric identities \nare listed next. \nRule: Trigonometric Identities \nReciprocal identities \nPythagorean i"
+      }
+    ],
+    "selected_chunks": [
+      {
+        "chunk_id": "openstax_calculus_v1_p0061_s0_paragraph_0001",
+        "page": 61,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.2",
+        "score": 0.02701252236135957
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0060_s0_paragraph_0003",
+        "page": 60,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.2",
+        "score": 0.026597524255603883
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p0066_s0_paragraph_0001",
+        "page": 66,
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "section": "1.3",
+        "score": 0.026397515527950312
+      }
+    ],
+    "context": "[openstax_calculus_v1_p0061_s0_paragraph_0001]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 61\nSection: 1.2\nContent:\nes to type a \n20-page assignment. \n 111 . [T] The output (as a \npercent of total capacity) \nof nuclear power plants in \nthe United States can be \nmodeled by the function \nwhere t is time in years \nand corresponds to \nthe beginning of 2000. \nUse the model to predict \nthe approximate \npercentage output at the \nbeginning of 2015. \n 112 . [T] The admissions office \nat a public university \nestimates that 65% of the \nstudents offered \nadmission to the class of \n2019 will actually enroll. \na. Find the\n\n\n[openstax_calculus_v1_p0060_s0_paragraph_0003]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 60\nSection: 1.2\nContent:\nar was purchased \nfor $26,000. The value of \nthe car depreciates by \n$1500 per year. \na. Find a linear function \nthat models the value \nV of the car after t \nyears. \nb. Find and interpret \n 108 . [T] A condominium in an \nupscale part of the city \nwas purchased for \n$432,000. In 35 years it is \nworth $60,500. Find the \nrate of depreciation. \n 109 . [T] The total cost C to \nproduce a certain item is \nmodeled by the function \nwhere x is the number of \nitems produced. \nDetermine the cost to \nproduce\n\n\n[openstax_calculus_v1_p0066_s0_paragraph_0001]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 66\nSection: 1.3\nContent:\nnst a house. If the angle between the base of the ladder \nand the ground is to be how far from the house should she place the base of the ladder? \nTrigonometric Identities \nA trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the \nfunctions are defined. We can use the identities to help us solve or simplify equations. The main trigonometric identities \nare listed next. \nRule: Trigonometric Identities \nReciprocal identities \nPythagorean i\n",
+    "answer": "The provided documents do not contain sufficient evidence to answer this question.",
+    "raw_answer": "The provided documents do not contain sufficient evidence to answer this question.",
+    "citations": [],
+    "abstained": true,
+    "citation_validation": "abstained",
+    "usage": {
+      "prompt_tokens": 646,
+      "completion_tokens": 13,
+      "total_tokens": 659,
+      "cost": 0.0001047,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0001047,
+        "upstream_inference_prompt_cost": 9.69e-05,
+        "upstream_inference_completions_cost": 7.8e-06
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "error": null,
+    "retrieval_ms": 75.66,
+    "model": "openai/gpt-4o-mini",
+    "answer_ms": 941.44,
+    "total_latency_ms": 1018.49
+  }
+]
