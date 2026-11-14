@@ -2,7 +2,7 @@
   "benchmark_id": "calculus_v1_retrieval_v1",
   "source_id": "openstax_calculus_v1",
   "description": "Text-grounded retrieval benchmark for PDF physical pages 51–100 of OpenStax Calculus Volume 1",
-  "split_method": "Fixed before retrieval evaluation: Q001–Q015 dev, Q016–Q020 test",
+  "split_method": "Q001–Q015 dev and Q016–Q020 test fixed in LAB6; Q021–Q022 added to dev and Q023–Q024 added to test for LAB7.",
   "evidence_source": "artifacts/pdf_quality/page_XXXX.txt in repository main",
   "filter_field_note": "section metadata must be assigned from PDF section boundaries in the ingestion pipeline before filter queries can run",
   "questions": [
@@ -244,8 +244,8 @@
       "filter": null,
       "answerable": false,
       "expected_behavior": "abstain",
-      "verification_status": "pending",
-      "verification_note": "Candidate only: verify against all ingested source pages 51-100 and both chunk strategies before labeling as lacking sufficient evidence."
+      "verification_status": "verified",
+      "verification_note": "User-verified insufficient evidence in LAB6 indexed OpenStax Calculus Volume 1, physical pages 51–100; no support for Adam optimizer parameter updates. Keyword screening returned no matches."
     },
     {
       "id": "Q022",
@@ -259,8 +259,8 @@
       "filter": null,
       "answerable": false,
       "expected_behavior": "abstain",
-      "verification_status": "pending",
-      "verification_note": "Candidate only: verify against all ingested source pages 51-100 and both chunk strategies before labeling as lacking sufficient evidence."
+      "verification_status": "verified",
+      "verification_note": "User-verified insufficient evidence in LAB6 indexed OpenStax Calculus Volume 1, physical pages 51–100; no support for computing the gradient of a function with three independent variables. Keyword screening returned no matches."
     },
     {
       "id": "Q023",
@@ -274,8 +274,8 @@
       "filter": null,
       "answerable": false,
       "expected_behavior": "abstain",
-      "verification_status": "pending",
-      "verification_note": "Candidate only: verify against all ingested source pages 51-100 and both chunk strategies before labeling as lacking sufficient evidence."
+      "verification_status": "verified",
+      "verification_note": "User-verified insufficient evidence in LAB6 indexed OpenStax Calculus Volume 1, physical pages 51–100; no support for Hessian-based classification of multivariable critical points. Keyword screening returned no matches."
     },
     {
       "id": "Q024",
@@ -289,9 +289,9 @@
       "filter": null,
       "answerable": false,
       "expected_behavior": "abstain",
-      "verification_status": "pending",
-      "verification_note": "Candidate only: verify against all ingested source pages 51-100 and both chunk strategies before labeling as lacking sufficient evidence."
+      "verification_status": "verified",
+      "verification_note": "User-verified insufficient evidence in LAB6 indexed OpenStax Calculus Volume 1, physical pages 51–100; no support for automatic differentiation of neural-network gradients. Keyword screening returned no matches."
     }
   ],
-  "lab7_extension_note": "Q021-Q024 are proposed insufficient-evidence questions (2 dev, 2 test). Their labels are provisional until source-wide verification. Q001-Q020 remain unchanged."
+  "lab7_extension_note": "Q021–Q024 are user-verified insufficient-evidence questions (2 dev, 2 test), expected to trigger abstention. Original Q001–Q020 question records remain unchanged."
 }

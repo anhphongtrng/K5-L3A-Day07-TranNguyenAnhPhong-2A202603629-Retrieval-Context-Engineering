@@ -1,0 +1,706 @@
+
+===========================================================================
+METHOD: dense
+QUESTION ID: Q003
+QUESTION: What kind of transformation is produced by shifting a graph horizontally or vertically?
+EXPECTED ANSWER: A shift is a transformation of a function.
+GOLD PAGE: 53
+EVIDENCE QUOTE: A shift, horizontally or vertically, is a type of transformation of a function.
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 54 | SCORE 0.6807
+CHUNK: openstax_calculus_v1_p0054_s0_paragraph_0000
+CONTENT:
+Figure 1.23 (a) For the graph of is a vertical shift up units of the graph of (b) For 
+the graph of is a vertical shift down units of the graph of 
+A horizontal shift of a function occurs if we add or subtract the same constant to each input For the graph of 
+ is a shift of the graph of to the left units; the graph of is a shift of the graph of to the right 
+units. Why does the graph shift left when adding a constant and shift right when subtracting a constant? To answer this 
+question, let’s lo
+
+--------------------------------------------------
+RANK 2 | PAGE 53 | SCORE 0.6627
+CHUNK: openstax_calculus_v1_p0053_s0_paragraph_0001
+CONTENT:
+instance, we subtracted 2 from the argument of the function to get the 
+function This subtraction represents a shift of the function two units to the right. A shift, 
+horizontally or vertically, is a type of transformation of a function. Other transformations include horizontal and 
+vertical scalings, and reflections about the axes. 
+A vertical shift of a function occurs if we add or subtract the same constant to each output For the graph of 
+ is a shift of the graph of up units, whereas the gr
+
+--------------------------------------------------
+RANK 3 | PAGE 54 | SCORE 0.646
+CHUNK: openstax_calculus_v1_p0054_s0_paragraph_0001
+CONTENT:
+ok at an example. 
+Consider the function and evaluate this function at Since and the graph 
+of is the graph of shifted left 3 units. Similarly, the graph of is the graph of 
+shifted right units (Figure 1.24). 
+Figure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For 
+the graph of is a horizontal shift right units of the graph of 
+A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the 
+graph of the func
+
+===========================================================================
+METHOD: dense
+QUESTION ID: Q008
+QUESTION: Besides describing points on circles, what geometric relationship do trigonometric functions express?
+EXPECTED ANSWER: The relationship between the sides and angles of a triangle.
+GOLD PAGE: 62
+EVIDENCE QUOTE: They also define the relationship among the sides and angles of a triangle.
+TOP1 PROXY: 0
+TOP3 PROXY: 0
+
+--------------------------------------------------
+RANK 1 | PAGE 61 | SCORE 0.638
+CHUNK: openstax_calculus_v1_p0061_s1_paragraph_0000
+CONTENT:
+1.3 Trigonometric Functions 
+Learning Objectives 
+1.3.1 Convert angle measures between degrees and radians. 
+1.3.2 Recognize the triangular and circular definitions of the basic trigonometric functions. 
+1.3.3 Write the basic trigonometric identities. 
+1.3.4 Identify the graphs and periods of the trigonometric functions. 
+1.3.5 Describe the shift of a sine or cosine graph from the equation of the function. 
+Trigonometric functions are used to model many phenomena, including sound waves, vibratio
+
+--------------------------------------------------
+RANK 2 | PAGE 63 | SCORE 0.6376
+CHUNK: openstax_calculus_v1_p0063_s0_paragraph_0001
+CONTENT:
+the coordinates and satisfy 
+The values of the other trigonometric functions can be expressed in terms of and (Figure 1.32). 
+Figure 1.32 For a point on a circle of radius the coordinates and satisfy and 
+Table 1.9 shows the values of sine and cosine at the major angles in the first quadrant. From this table, we can determine 
+the values of sine and cosine at the corresponding angles in the other quadrants. The values of the other trigonometric 
+functions are calculated easily from the values of
+
+--------------------------------------------------
+RANK 3 | PAGE 62 | SCORE 0.6372
+CHUNK: openstax_calculus_v1_p0062_s0_paragraph_0002
+CONTENT:
+define the trigonometric functions, first consider the unit circle centered at the origin and a point on the 
+unit circle. Let be an angle with an initial side that lies along the positive -axis and with a terminal side that is the line 
+segment An angle in this position is said to be in standard position (Figure 1.31). We can then define the values of 
+the six trigonometric functions for in terms of the coordinates and 
+54 1 • Functions and Graphs
+Access for free at openstax.org
+
+===========================================================================
+METHOD: dense
+QUESTION ID: Q012
+QUESTION: What real-world quantity can be modeled using a shifted sine curve?
+EXPECTED ANSWER: Hours of daylight as a function of the day of the year.
+GOLD PAGE: 69
+EVIDENCE QUOTE: A shifted sine curve arises naturally when graphing the number of hours of daylight
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 69 | SCORE 0.6178
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0002
+CONTENT:
+ion of day of the year can be modeled by a shifted sine curve. 
+EXAMPLE 1.27 
+Sketching the Graph of a Transformed Sine Curve 
+Sketch a graph of 
+1.3 • Trigonometric Functions 61
+
+--------------------------------------------------
+RANK 2 | PAGE 69 | SCORE 0.584
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0001
+CONTENT:
+right units, 
+and state that 
+A shifted sine curve arises naturally when graphing the number of hours of daylight in a given location as a function of 
+the day of the year. For example, suppose a city reports that June 21 is the longest day of the year with hours and 
+December 21 is the shortest day of the year with hours. It can be shown that the function 
+is a model for the number of hours of daylight as a function of day of the year (Figure 1.36). 
+Figure 1.36 The hours of daylight as a funct
+
+--------------------------------------------------
+RANK 3 | PAGE 69 | SCORE 0.5188
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0000
+CONTENT:
+(1.10) 
+In Figure 1.35, the constant causes a horizontal or phase shift. The factor changes the period. This transformed sine 
+function will have a period The factor results in a vertical stretch by a factor of We say is the 
+“amplitude of ” The constant causes a vertical shift. 
+Figure 1.35 A graph of a general cosine function. 
+Notice in Figure 1.34 that the graph of is the graph of shifted to the left units. Therefore, we can 
+write Similarly, we can view the graph of as the graph of shifted
+
+===========================================================================
+METHOD: bm25
+QUESTION ID: Q002
+QUESTION: During what hours is the parking garage in Example 1.20 open?
+EXPECTED ANSWER: From 6 a.m. to midnight.
+GOLD PAGE: 52
+EVIDENCE QUOTE: The parking garage is open from 6 a.m. to 12 midnight.
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 52 | SCORE 26.0801
+CHUNK: openstax_calculus_v1_p0052_s0_paragraph_0001
+CONTENT:
+ise-defined function that describes the cost to park in the parking garage as a function of hours 
+parked 
+b. Sketch a graph of this function 
+Solution 
+a. Since the parking garage is open 18 hours each day, the domain for this function is The cost to 
+park a car at this parking garage can be described piecewise by the function 
+b. The graph of the function consists of several horizontal line segments. 
+44 1 • Functions and Graphs
+Access for free at openstax.org
+
+--------------------------------------------------
+RANK 2 | PAGE 52 | SCORE 25.1083
+CHUNK: openstax_calculus_v1_p0052_s0_paragraph_0000
+CONTENT:
+Figure 1.22 This piecewise-defined function is linear for and quadratic for 
+ 1.14 Sketch a graph of the function 
+EXAMPLE 1.20 
+Parking Fees Described by a Piecewise-Defined Function 
+In a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or 
+any part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The 
+parking garage is open from 6 a.m. to 12 midnight. 
+a. Write a piecew
+
+--------------------------------------------------
+RANK 3 | PAGE 51 | SCORE 12.2427
+CHUNK: openstax_calculus_v1_p0051_s0_paragraph_0002
+CONTENT:
+cewise-defined function, we graph each part of the function in its respective 
+domain, on the same coordinate system. If the formula for a function is different for and we need to pay 
+special attention to what happens at when we graph the function. Sometimes the graph needs to include an open 
+or closed circle to indicate the value of the function at We examine this in the next example. 
+EXAMPLE 1.19 
+Graphing a Piecewise-Defined Function 
+Sketch a graph of the following piecewise-defined funct
+
+===========================================================================
+METHOD: bm25
+QUESTION ID: Q003
+QUESTION: What kind of transformation is produced by shifting a graph horizontally or vertically?
+EXPECTED ANSWER: A shift is a transformation of a function.
+GOLD PAGE: 53
+EVIDENCE QUOTE: A shift, horizontally or vertically, is a type of transformation of a function.
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 55 | SCORE 18.9205
+CHUNK: openstax_calculus_v1_p0055_s0_paragraph_0002
+CONTENT:
+ver, we have not addressed what happens to the graph of the 
+function if the constant is negative. If we have a constant we can write c as a positive number multiplied by 
+but, what kind of transformation do we get when we multiply the function or its argument by When we multiply all 
+the outputs by we get a reflection about the -axis. When we multiply all inputs by we get a reflection about the 
+-axis. For example, the graph of is the graph of reflected about the -axis. The graph of 
+ is the gr
+
+--------------------------------------------------
+RANK 2 | PAGE 53 | SCORE 18.8197
+CHUNK: openstax_calculus_v1_p0053_s0_paragraph_0001
+CONTENT:
+instance, we subtracted 2 from the argument of the function to get the 
+function This subtraction represents a shift of the function two units to the right. A shift, 
+horizontally or vertically, is a type of transformation of a function. Other transformations include horizontal and 
+vertical scalings, and reflections about the axes. 
+A vertical shift of a function occurs if we add or subtract the same constant to each output For the graph of 
+ is a shift of the graph of up units, whereas the gr
+
+--------------------------------------------------
+RANK 3 | PAGE 55 | SCORE 14.594
+CHUNK: openstax_calculus_v1_p0055_s0_paragraph_0001
+CONTENT:
+of is the graph of 
+ compressed horizontally. The graph of is a horizontal stretch of the graph of (Figure 1.26). 
+Figure 1.26 (a) If the graph of is a horizontal compression of the graph of (b) If the 
+graph of is a horizontal stretch of the graph of 
+We have explored what happens to the graph of a function when we multiply by a constant to get a new 
+function We have also discussed what happens to the graph of a function when we multiply the independent 
+variable by to get a new function Howe
+
+===========================================================================
+METHOD: bm25
+QUESTION ID: Q004
+QUESTION: How is vertical scaling applied to a function graph?
+EXPECTED ANSWER: Multiply every output of the function by the same positive constant.
+GOLD PAGE: 54
+EVIDENCE QUOTE: A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant.
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 55 | SCORE 13.7101
+CHUNK: openstax_calculus_v1_p0055_s0_paragraph_0000
+CONTENT:
+Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of 
+ is a vertical compression of the graph of 
+The horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph 
+of the function is the graph of scaled horizontally by a factor of If the graph of is the graph of 
+ compressed horizontally. If the graph of is the graph of stretched horizontally. For example, 
+consider the function and evaluate at Since the graph
+
+--------------------------------------------------
+RANK 2 | PAGE 56 | SCORE 13.5872
+CHUNK: openstax_calculus_v1_p0056_s0_paragraph_0001
+CONTENT:
+orizontal scaling of the graph of by a factor of If reflect the graph about the -axis. 
+3. Vertical scaling of the graph of by a factor of If reflect the graph about the -axis. 
+4. Vertical shift of the graph of If shift up. If shift down. 
+We can summarize the different transformations and their related effects on the graph of a function in the following 
+table. 
+Transformation of Effect on the graph of 
+Vertical shift up units 
+Vertical shift down units 
+Shift left by units 
+Shift right by uni
+
+--------------------------------------------------
+RANK 3 | PAGE 54 | SCORE 12.298
+CHUNK: openstax_calculus_v1_p0054_s0_paragraph_0001
+CONTENT:
+ok at an example. 
+Consider the function and evaluate this function at Since and the graph 
+of is the graph of shifted left 3 units. Similarly, the graph of is the graph of 
+shifted right units (Figure 1.24). 
+Figure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For 
+the graph of is a horizontal shift right units of the graph of 
+A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the 
+graph of the func
+
+===========================================================================
+METHOD: bm25
+QUESTION ID: Q005
+QUESTION: In Section 1.2, which part of a function is multiplied to perform horizontal scaling?
+EXPECTED ANSWER: The inputs of the function.
+GOLD PAGE: 55
+EVIDENCE QUOTE: The horizontal scaling of a function occurs if we multiply the inputs by the same positive constant.
+TOP1 PROXY: 0
+TOP3 PROXY: 0
+
+--------------------------------------------------
+RANK 1 | PAGE 53 | SCORE 16.7918
+CHUNK: openstax_calculus_v1_p0053_s0_paragraph_0000
+CONTENT:
+1.15 The cost of mailing a letter is a function of the weight of the letter. Suppose the cost of mailing a letter is 
+ for the first ounce and for each additional ounce. Write a piecewise-defined function describing 
+the cost as a function of the weight for where is measured in cents and is measured in 
+ounces. 
+Transformations of Functions 
+We have seen several cases in which we have added, subtracted, or multiplied constants to form variations of simple 
+functions. In the previous example, for
+
+--------------------------------------------------
+RANK 2 | PAGE 52 | SCORE 15.5498
+CHUNK: openstax_calculus_v1_p0052_s0_paragraph_0000
+CONTENT:
+Figure 1.22 This piecewise-defined function is linear for and quadratic for 
+ 1.14 Sketch a graph of the function 
+EXAMPLE 1.20 
+Parking Fees Described by a Piecewise-Defined Function 
+In a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or 
+any part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The 
+parking garage is open from 6 a.m. to 12 midnight. 
+a. Write a piecew
+
+--------------------------------------------------
+RANK 3 | PAGE 54 | SCORE 14.6059
+CHUNK: openstax_calculus_v1_p0054_s0_paragraph_0001
+CONTENT:
+ok at an example. 
+Consider the function and evaluate this function at Since and the graph 
+of is the graph of shifted left 3 units. Similarly, the graph of is the graph of 
+shifted right units (Figure 1.24). 
+Figure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For 
+the graph of is a horizontal shift right units of the graph of 
+A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the 
+graph of the func
+
+===========================================================================
+METHOD: bm25
+QUESTION ID: Q007
+QUESTION: Name two physical phenomena that can be modeled by trigonometric functions.
+EXPECTED ANSWER: Sound waves and vibrations of strings (other accepted examples: alternating current and pendulum motion).
+GOLD PAGE: 61
+EVIDENCE QUOTE: Trigonometric functions are used to model many phenomena, including sound waves, vibrations of strings
+TOP1 PROXY: 0
+TOP3 PROXY: 0
+
+--------------------------------------------------
+RANK 1 | PAGE 98 | SCORE 10.5094
+CHUNK: openstax_calculus_v1_p0098_s0_paragraph_0000
+CONTENT:
+Figure 1.49 The shape of a strand of silk in a spider’s web can be described in terms of a hyperbolic function. The same 
+shape applies to a chain or cable hanging from two supports with only its own weight. (credit: “Mtpaley”, Wikimedia 
+Commons) 
+Definition 
+Hyperbolic cosine 
+Hyperbolic sine 
+Hyperbolic tangent 
+Hyperbolic cosecant 
+Hyperbolic secant 
+Hyperbolic cotangent 
+The name cosh rhymes with “gosh,” whereas the name sinh is pronounced “cinch.” Tanh, sech, csch, and coth are 
+pronounced
+
+--------------------------------------------------
+RANK 2 | PAGE 69 | SCORE 9.4595
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0002
+CONTENT:
+ion of day of the year can be modeled by a shifted sine curve. 
+EXAMPLE 1.27 
+Sketching the Graph of a Transformed Sine Curve 
+Sketch a graph of 
+1.3 • Trigonometric Functions 61
+
+--------------------------------------------------
+RANK 3 | PAGE 61 | SCORE 9.0041
+CHUNK: openstax_calculus_v1_p0061_s1_paragraph_0001
+CONTENT:
+ns of strings, alternating 
+electrical current, and the motion of pendulums. In fact, almost any repetitive, or cyclical, motion can be modeled by 
+some combination of trigonometric functions. In this section, we define the six basic trigonometric functions and look at 
+some of the main identities involving these functions. 
+Radian Measure 
+To use trigonometric functions, we first must understand how to measure the angles. Although we can use both radians 
+and degrees, radians are a more natural
+
+===========================================================================
+METHOD: bm25
+QUESTION ID: Q009
+QUESTION: What is a trigonometric identity?
+EXPECTED ANSWER: An equation involving trigonometric functions that holds for all angles where the functions are defined.
+GOLD PAGE: 66
+EVIDENCE QUOTE: A trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the functions are defined.
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 67 | SCORE 9.2392
+CHUNK: openstax_calculus_v1_p0067_s0_paragraph_0003
+CONTENT:
+such that or The solutions of the first 
+equation are The solutions of the second equation are After 
+checking for extraneous solutions, the set of solutions to the equation is 
+ 1.20 Find all solutions to the equation 
+EXAMPLE 1.26 
+Proving a Trigonometric Identity 
+Prove the trigonometric identity 
+1.3 • Trigonometric Functions 59
+
+--------------------------------------------------
+RANK 2 | PAGE 66 | SCORE 8.4024
+CHUNK: openstax_calculus_v1_p0066_s0_paragraph_0001
+CONTENT:
+nst a house. If the angle between the base of the ladder 
+and the ground is to be how far from the house should she place the base of the ladder? 
+Trigonometric Identities 
+A trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the 
+functions are defined. We can use the identities to help us solve or simplify equations. The main trigonometric identities 
+are listed next. 
+Rule: Trigonometric Identities 
+Reciprocal identities 
+Pythagorean i
+
+--------------------------------------------------
+RANK 3 | PAGE 66 | SCORE 8.2255
+CHUNK: openstax_calculus_v1_p0066_s0_paragraph_0002
+CONTENT:
+dentities 
+Addition and subtraction formulas 
+Double-angle formulas 
+EXAMPLE 1.25 
+Solving Trigonometric Equations 
+For each of the following equations, use a trigonometric identity to find all solutions. 
+a. 
+b. 
+Solution 
+a. Using the double-angle formula for we see that is a solution of 
+if and only if 
+58 1 • Functions and Graphs
+Access for free at openstax.org
+
+===========================================================================
+METHOD: bm25
+QUESTION ID: Q012
+QUESTION: What real-world quantity can be modeled using a shifted sine curve?
+EXPECTED ANSWER: Hours of daylight as a function of the day of the year.
+GOLD PAGE: 69
+EVIDENCE QUOTE: A shifted sine curve arises naturally when graphing the number of hours of daylight
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 69 | SCORE 23.0266
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0002
+CONTENT:
+ion of day of the year can be modeled by a shifted sine curve. 
+EXAMPLE 1.27 
+Sketching the Graph of a Transformed Sine Curve 
+Sketch a graph of 
+1.3 • Trigonometric Functions 61
+
+--------------------------------------------------
+RANK 2 | PAGE 69 | SCORE 11.7742
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0001
+CONTENT:
+right units, 
+and state that 
+A shifted sine curve arises naturally when graphing the number of hours of daylight in a given location as a function of 
+the day of the year. For example, suppose a city reports that June 21 is the longest day of the year with hours and 
+December 21 is the shortest day of the year with hours. It can be shown that the function 
+is a model for the number of hours of daylight as a function of day of the year (Figure 1.36). 
+Figure 1.36 The hours of daylight as a funct
+
+--------------------------------------------------
+RANK 3 | PAGE 98 | SCORE 10.4348
+CHUNK: openstax_calculus_v1_p0098_s0_paragraph_0001
+CONTENT:
+“tanch,” “seech,” “coseech,” and “cotanch,” respectively. 
+Using the definition of and principles of physics, it can be shown that the height of a hanging chain, such as the 
+one in Figure 1.49, can be described by the function for certain constants and 
+But why are these functions called hyperbolic functions? To answer this question, consider the quantity 
+Using the definition of and we see that 
+90 1 • Functions and Graphs
+Access for free at openstax.org
+
+===========================================================================
+METHOD: bm25
+QUESTION ID: Q013
+QUESTION: What is the fundamental purpose of an inverse function?
+EXPECTED ANSWER: It reverses, or undoes, the operation of the original function.
+GOLD PAGE: 73
+EVIDENCE QUOTE: An inverse function reverses the operation done by a particular function.
+TOP1 PROXY: 0
+TOP3 PROXY: 0
+
+--------------------------------------------------
+RANK 1 | PAGE 82 | SCORE 11.9731
+CHUNK: openstax_calculus_v1_p0082_s0_paragraph_0001
+CONTENT:
+and its inverse. For example, consider the two expressions 
+ and For the first one, we simplify as follows: 
+For the second one, we have 
+The inverse function is supposed to “undo” the original function, so why isn’t Recalling our definition 
+of inverse functions, a function and its inverse satisfy the conditions for all in the domain of 
+ and for all in the domain of so what happened here? The issue is that the inverse sine function, 
+ is the inverse of the restricted sine function defined on
+
+--------------------------------------------------
+RANK 2 | PAGE 73 | SCORE 11.7559
+CHUNK: openstax_calculus_v1_p0073_s1_paragraph_0001
+CONTENT:
+define an inverse function formally and state the necessary conditions for 
+an inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of 
+a function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse 
+trigonometric functions. 
+Existence of an Inverse Function 
+We begin with an example. Given a function and an output we are often interested in finding what value or 
+values were mapped
+
+--------------------------------------------------
+RANK 3 | PAGE 73 | SCORE 11.3463
+CHUNK: openstax_calculus_v1_p0073_s1_paragraph_0002
+CONTENT:
+to by For example, consider the function Since any output we can 
+solve this equation for to find that the input is This equation defines as a function of Denoting this 
+function as and writing we see that for any in the domain of 
+ Thus, this new function, “undid” what the original function did. A function 
+with this property is called the inverse function of the original function. 
+1.4 • Inverse Functions 65
+
+===========================================================================
+METHOD: hybrid
+QUESTION ID: Q004
+QUESTION: How is vertical scaling applied to a function graph?
+EXPECTED ANSWER: Multiply every output of the function by the same positive constant.
+GOLD PAGE: 54
+EVIDENCE QUOTE: A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant.
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 55 | SCORE 0.0325
+CHUNK: openstax_calculus_v1_p0055_s0_paragraph_0000
+CONTENT:
+Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of 
+ is a vertical compression of the graph of 
+The horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph 
+of the function is the graph of scaled horizontally by a factor of If the graph of is the graph of 
+ compressed horizontally. If the graph of is the graph of stretched horizontally. For example, 
+consider the function and evaluate at Since the graph
+
+--------------------------------------------------
+RANK 2 | PAGE 54 | SCORE 0.0323
+CHUNK: openstax_calculus_v1_p0054_s0_paragraph_0001
+CONTENT:
+ok at an example. 
+Consider the function and evaluate this function at Since and the graph 
+of is the graph of shifted left 3 units. Similarly, the graph of is the graph of 
+shifted right units (Figure 1.24). 
+Figure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For 
+the graph of is a horizontal shift right units of the graph of 
+A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the 
+graph of the func
+
+--------------------------------------------------
+RANK 3 | PAGE 56 | SCORE 0.0318
+CHUNK: openstax_calculus_v1_p0056_s0_paragraph_0001
+CONTENT:
+orizontal scaling of the graph of by a factor of If reflect the graph about the -axis. 
+3. Vertical scaling of the graph of by a factor of If reflect the graph about the -axis. 
+4. Vertical shift of the graph of If shift up. If shift down. 
+We can summarize the different transformations and their related effects on the graph of a function in the following 
+table. 
+Transformation of Effect on the graph of 
+Vertical shift up units 
+Vertical shift down units 
+Shift left by units 
+Shift right by uni
+
+===========================================================================
+METHOD: hybrid
+QUESTION ID: Q005
+QUESTION: In Section 1.2, which part of a function is multiplied to perform horizontal scaling?
+EXPECTED ANSWER: The inputs of the function.
+GOLD PAGE: 55
+EVIDENCE QUOTE: The horizontal scaling of a function occurs if we multiply the inputs by the same positive constant.
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 54 | SCORE 0.032
+CHUNK: openstax_calculus_v1_p0054_s0_paragraph_0001
+CONTENT:
+ok at an example. 
+Consider the function and evaluate this function at Since and the graph 
+of is the graph of shifted left 3 units. Similarly, the graph of is the graph of 
+shifted right units (Figure 1.24). 
+Figure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For 
+the graph of is a horizontal shift right units of the graph of 
+A vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the 
+graph of the func
+
+--------------------------------------------------
+RANK 2 | PAGE 55 | SCORE 0.0309
+CHUNK: openstax_calculus_v1_p0055_s0_paragraph_0000
+CONTENT:
+Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of 
+ is a vertical compression of the graph of 
+The horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph 
+of the function is the graph of scaled horizontally by a factor of If the graph of is the graph of 
+ compressed horizontally. If the graph of is the graph of stretched horizontally. For example, 
+consider the function and evaluate at Since the graph
+
+--------------------------------------------------
+RANK 3 | PAGE 58 | SCORE 0.0308
+CHUNK: openstax_calculus_v1_p0058_s0_paragraph_0000
+CONTENT:
+1.16 Describe how the function can be graphed using the graph of and a 
+sequence of transformations. 
+ SECTION 1.2 EXERCISES 
+For the following exercises, for each pair of points, a. find the slope of the line passing through the points and b. indicate 
+whether the line is increasing, decreasing, horizontal, or vertical. 
+59 . and 60 . and 61 . and 
+62 . and 63 . and 64 . and 
+65 . and 66 . and 
+For the following exercises, write the equation of the line satisfying the given conditions in slope-
+
+===========================================================================
+METHOD: hybrid
+QUESTION ID: Q012
+QUESTION: What real-world quantity can be modeled using a shifted sine curve?
+EXPECTED ANSWER: Hours of daylight as a function of the day of the year.
+GOLD PAGE: 69
+EVIDENCE QUOTE: A shifted sine curve arises naturally when graphing the number of hours of daylight
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 69 | SCORE 0.0328
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0002
+CONTENT:
+ion of day of the year can be modeled by a shifted sine curve. 
+EXAMPLE 1.27 
+Sketching the Graph of a Transformed Sine Curve 
+Sketch a graph of 
+1.3 • Trigonometric Functions 61
+
+--------------------------------------------------
+RANK 2 | PAGE 69 | SCORE 0.0323
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0001
+CONTENT:
+right units, 
+and state that 
+A shifted sine curve arises naturally when graphing the number of hours of daylight in a given location as a function of 
+the day of the year. For example, suppose a city reports that June 21 is the longest day of the year with hours and 
+December 21 is the shortest day of the year with hours. It can be shown that the function 
+is a model for the number of hours of daylight as a function of day of the year (Figure 1.36). 
+Figure 1.36 The hours of daylight as a funct
+
+--------------------------------------------------
+RANK 3 | PAGE 69 | SCORE 0.0313
+CHUNK: openstax_calculus_v1_p0069_s0_paragraph_0000
+CONTENT:
+(1.10) 
+In Figure 1.35, the constant causes a horizontal or phase shift. The factor changes the period. This transformed sine 
+function will have a period The factor results in a vertical stretch by a factor of We say is the 
+“amplitude of ” The constant causes a vertical shift. 
+Figure 1.35 A graph of a general cosine function. 
+Notice in Figure 1.34 that the graph of is the graph of shifted to the left units. Therefore, we can 
+write Similarly, we can view the graph of as the graph of shifted
+
+===========================================================================
+METHOD: hybrid
+QUESTION ID: Q013
+QUESTION: What is the fundamental purpose of an inverse function?
+EXPECTED ANSWER: It reverses, or undoes, the operation of the original function.
+GOLD PAGE: 73
+EVIDENCE QUOTE: An inverse function reverses the operation done by a particular function.
+TOP1 PROXY: 0
+TOP3 PROXY: 1
+
+--------------------------------------------------
+RANK 1 | PAGE 73 | SCORE 0.0323
+CHUNK: openstax_calculus_v1_p0073_s1_paragraph_0001
+CONTENT:
+define an inverse function formally and state the necessary conditions for 
+an inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of 
+a function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse 
+trigonometric functions. 
+Existence of an Inverse Function 
+We begin with an example. Given a function and an output we are often interested in finding what value or 
+values were mapped
+
+--------------------------------------------------
+RANK 2 | PAGE 82 | SCORE 0.032
+CHUNK: openstax_calculus_v1_p0082_s0_paragraph_0001
+CONTENT:
+and its inverse. For example, consider the two expressions 
+ and For the first one, we simplify as follows: 
+For the second one, we have 
+The inverse function is supposed to “undo” the original function, so why isn’t Recalling our definition 
+of inverse functions, a function and its inverse satisfy the conditions for all in the domain of 
+ and for all in the domain of so what happened here? The issue is that the inverse sine function, 
+ is the inverse of the restricted sine function defined on
+
+--------------------------------------------------
+RANK 3 | PAGE 73 | SCORE 0.0303
+CHUNK: openstax_calculus_v1_p0073_s1_paragraph_0000
+CONTENT:
+1.4 Inverse Functions 
+Learning Objectives 
+1.4.1 Determine the conditions for when a function has an inverse. 
+1.4.2 Use the horizontal line test to recognize when a function is one-to-one. 
+1.4.3 Find the inverse of a given function. 
+1.4.4 Draw the graph of an inverse function. 
+1.4.5 Evaluate inverse trigonometric functions. 
+An inverse function reverses the operation done by a particular function. In other words, whatever a function does, the 
+inverse function undoes it. In this section, we

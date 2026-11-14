@@ -1,0 +1,3470 @@
+[
+  {
+    "method": "dense",
+    "question_id": "Q001",
+    "filter_section": null,
+    "latency_ms": 153.15,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7203,
+        "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 51,
+        "content": "transcendental function? \nPiecewise-Defined Functions \nSometimes a function is defined by different formulas on different parts of its domain. A function with this property is \nknown as a piecewise-defined function. The absolute value function is an example of a piecewise-defined function \nbecause the formula changes with the sign of \nOther piecewise-defined functions may be represented by completely different formulas, depending on the part of the \ndomain in which a point falls. To graph a pie",
+        "metadata": {
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0051",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 51,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.644,
+        "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 51,
+        "content": "cewise-defined function, we graph each part of the function in its respective \ndomain, on the same coordinate system. If the formula for a function is different for and we need to pay \nspecial attention to what happens at when we graph the function. Sometimes the graph needs to include an open \nor closed circle to indicate the value of the function at We examine this in the next example. \nEXAMPLE 1.19 \nGraphing a Piecewise-Defined Function \nSketch a graph of the following piecewise-defined funct",
+        "metadata": {
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0051",
+          "section": "1.2",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 51,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.598,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "Figure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m. to 12 midnight. \na. Write a piecew",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q002",
+    "filter_section": null,
+    "latency_ms": 56.89,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.6154,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "Figure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m. to 12 midnight. \na. Write a piecew",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.6079,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "ise-defined function that describes the cost to park in the parking garage as a function of hours \nparked \nb. Sketch a graph of this function \nSolution \na. Since the parking garage is open 18 hours each day, the domain for this function is The cost to \npark a car at this parking garage can be described piecewise by the function \nb. The graph of the function consists of several horizontal line segments. \n44 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.4666,
+        "chunk_id": "openstax_calculus_v1_p0073_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 73,
+        "content": "179 . [T] An alternating current \nfor outlets in a home has \nvoltage given by the \nfunction \nwhere V is the voltage in \nvolts at time t in seconds. \na. Find the period of the \nfunction and interpret \nits meaning. \nb. Determine the number \nof periods that occur \nwhen 1 sec has \npassed. \n 180 . [T] The number of hours of \ndaylight in a northeast city is \nmodeled by the function \nwhere t is the number of days \nafter January 1. \na. Find the amplitude and \nperiod. \nb. Determine the number of \nhours o",
+        "metadata": {
+          "page": 73,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0073",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 73,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q003",
+    "filter_section": null,
+    "latency_ms": 70.52,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.6807,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "Figure 1.23 (a) For the graph of is a vertical shift up units of the graph of (b) For \nthe graph of is a vertical shift down units of the graph of \nA horizontal shift of a function occurs if we add or subtract the same constant to each input For the graph of \n is a shift of the graph of to the left units; the graph of is a shift of the graph of to the right \nunits. Why does the graph shift left when adding a constant and shift right when subtracting a constant? To answer this \nquestion, let’s lo",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.6627,
+        "chunk_id": "openstax_calculus_v1_p0053_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 53,
+        "content": "instance, we subtracted 2 from the argument of the function to get the \nfunction This subtraction represents a shift of the function two units to the right. A shift, \nhorizontally or vertically, is a type of transformation of a function. Other transformations include horizontal and \nvertical scalings, and reflections about the axes. \nA vertical shift of a function occurs if we add or subtract the same constant to each output For the graph of \n is a shift of the graph of up units, whereas the gr",
+        "metadata": {
+          "page": 53,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0053",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 53,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.646,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q004",
+    "filter_section": null,
+    "latency_ms": 58.73,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7355,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.7045,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of \n is a vertical compression of the graph of \nThe horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph \nof the function is the graph of scaled horizontally by a factor of If the graph of is the graph of \n compressed horizontally. If the graph of is the graph of stretched horizontally. For example, \nconsider the function and evaluate at Since the graph",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.6512,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "tion is the graph of scaled vertically by a factor of If the values of the outputs for \nthe function are larger than the values of the outputs for the function therefore, the graph has been \nstretched vertically. If then the outputs of the function are smaller, so the graph has been compressed. \nFor example, the graph of the function is the graph of stretched vertically by a factor of 3, whereas \nthe graph of is the graph of compressed vertically by a factor of (Figure 1.25). \n46 1 • Functions a",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q005",
+    "filter_section": "1.2",
+    "latency_ms": 57.13,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.6263,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of \n is a vertical compression of the graph of \nThe horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph \nof the function is the graph of scaled horizontally by a factor of If the graph of is the graph of \n compressed horizontally. If the graph of is the graph of stretched horizontally. For example, \nconsider the function and evaluate at Since the graph",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.5976,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.5612,
+        "chunk_id": "openstax_calculus_v1_p0053_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 53,
+        "content": "instance, we subtracted 2 from the argument of the function to get the \nfunction This subtraction represents a shift of the function two units to the right. A shift, \nhorizontally or vertically, is a type of transformation of a function. Other transformations include horizontal and \nvertical scalings, and reflections about the axes. \nA vertical shift of a function occurs if we add or subtract the same constant to each output For the graph of \n is a shift of the graph of up units, whereas the gr",
+        "metadata": {
+          "page": 53,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0053",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 53,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q006",
+    "filter_section": null,
+    "latency_ms": 56.47,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.6403,
+        "chunk_id": "openstax_calculus_v1_p0056_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 56,
+        "content": "Figure 1.27 (a) The graph of is the graph of reflected about the -axis. (b) The graph of is \nthe graph of reflected about the \n-axis. \nIf the graph of a function consists of more than one transformation of another graph, it is important to transform the \ngraph in the correct order. Given a function the graph of the related function can be obtained \nfrom the graph of by performing the transformations in the following order. \n1. Horizontal shift of the graph of If shift left. If shift right. \n2. H",
+        "metadata": {
+          "page": 56,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0056",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 56,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.5892,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "Figure 1.23 (a) For the graph of is a vertical shift up units of the graph of (b) For \nthe graph of is a vertical shift down units of the graph of \nA horizontal shift of a function occurs if we add or subtract the same constant to each input For the graph of \n is a shift of the graph of to the left units; the graph of is a shift of the graph of to the right \nunits. Why does the graph shift left when adding a constant and shift right when subtracting a constant? To answer this \nquestion, let’s lo",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.5638,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q007",
+    "filter_section": null,
+    "latency_ms": 61.74,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.5665,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 61,
+        "content": "1.3 Trigonometric Functions \nLearning Objectives \n1.3.1 Convert angle measures between degrees and radians. \n1.3.2 Recognize the triangular and circular definitions of the basic trigonometric functions. \n1.3.3 Write the basic trigonometric identities. \n1.3.4 Identify the graphs and periods of the trigonometric functions. \n1.3.5 Describe the shift of a sine or cosine graph from the equation of the function. \nTrigonometric functions are used to model many phenomena, including sound waves, vibratio",
+        "metadata": {
+          "page": 61,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0061",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 61,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.5648,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 61,
+        "content": "ns of strings, alternating \nelectrical current, and the motion of pendulums. In fact, almost any repetitive, or cyclical, motion can be modeled by \nsome combination of trigonometric functions. In this section, we define the six basic trigonometric functions and look at \nsome of the main identities involving these functions. \nRadian Measure \nTo use trigonometric functions, we first must understand how to measure the angles. Although we can use both radians \nand degrees, radians are a more natural",
+        "metadata": {
+          "page": 61,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0061",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 61,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.551,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "s, we can apply transformations to trigonometric functions. In particular, consider the \nfollowing function: \n60 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q008",
+    "filter_section": null,
+    "latency_ms": 67.11,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.638,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 61,
+        "content": "1.3 Trigonometric Functions \nLearning Objectives \n1.3.1 Convert angle measures between degrees and radians. \n1.3.2 Recognize the triangular and circular definitions of the basic trigonometric functions. \n1.3.3 Write the basic trigonometric identities. \n1.3.4 Identify the graphs and periods of the trigonometric functions. \n1.3.5 Describe the shift of a sine or cosine graph from the equation of the function. \nTrigonometric functions are used to model many phenomena, including sound waves, vibratio",
+        "metadata": {
+          "page": 61,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0061",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 61,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.6376,
+        "chunk_id": "openstax_calculus_v1_p0063_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 63,
+        "content": "the coordinates and satisfy \nThe values of the other trigonometric functions can be expressed in terms of and (Figure 1.32). \nFigure 1.32 For a point on a circle of radius the coordinates and satisfy and \nTable 1.9 shows the values of sine and cosine at the major angles in the first quadrant. From this table, we can determine \nthe values of sine and cosine at the corresponding angles in the other quadrants. The values of the other trigonometric \nfunctions are calculated easily from the values of",
+        "metadata": {
+          "page": 63,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0063",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 63,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.6372,
+        "chunk_id": "openstax_calculus_v1_p0062_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 62,
+        "content": "define the trigonometric functions, first consider the unit circle centered at the origin and a point on the \nunit circle. Let be an angle with an initial side that lies along the positive -axis and with a terminal side that is the line \nsegment An angle in this position is said to be in standard position (Figure 1.31). We can then define the values of \nthe six trigonometric functions for in terms of the coordinates and \n54 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 62,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0062",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 62,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q009",
+    "filter_section": null,
+    "latency_ms": 50.91,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.75,
+        "chunk_id": "openstax_calculus_v1_p0066_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 66,
+        "content": "nst a house. If the angle between the base of the ladder \nand the ground is to be how far from the house should she place the base of the ladder? \nTrigonometric Identities \nA trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the \nfunctions are defined. We can use the identities to help us solve or simplify equations. The main trigonometric identities \nare listed next. \nRule: Trigonometric Identities \nReciprocal identities \nPythagorean i",
+        "metadata": {
+          "page": 66,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0066",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 66,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.5448,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "Solution \nWe start with the identity \nDividing both sides of this equation by we obtain \nSince and we conclude that \n 1.21 Prove the trigonometric identity \nGraphs and Periods of the Trigonometric Functions \nWe have seen that as we travel around the unit circle, the values of the trigonometric functions repeat. We can see this \npattern in the graphs of the functions. Let be a point on the unit circle and let be the corresponding angle \nSince the angle and correspond to the same point the values",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.5169,
+        "chunk_id": "openstax_calculus_v1_p0099_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 99,
+        "content": "This identity is the analog of the trigonometric identity Here, given a value the point \n lies on the unit hyperbola (Figure 1.50). \nFigure 1.50 The unit hyperbola \nGraphs of Hyperbolic Functions \nTo graph and we make use of the fact that both functions approach as ∞ since as \n∞ As ∞ approaches whereas approaches Therefore, using the graphs of \n and as guides, we graph and To graph we use the fact that \n for all as ∞ and as ∞ The graphs of the other \nthree hyperbolic functions can be sketched us",
+        "metadata": {
+          "page": 99,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0099",
+          "section": "1.5",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 99,
+          "section_title": "Exponential and Logarithmic Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q010",
+    "filter_section": "1.3",
+    "latency_ms": 64.03,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.5362,
+        "chunk_id": "openstax_calculus_v1_p0067_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 67,
+        "content": "which is true if and only if \nTo solve this equation, it is important to note that we need to factor the left-hand side and not divide both sides of \nthe equation by The problem with dividing by is that it is possible that is zero. In fact, if we did \ndivide both sides of the equation by we would miss some of the solutions of the original equation. Factoring \nthe left-hand side of the equation, we see that is a solution of this equation if and only if \nSince when \nand when \nwe conclude that the",
+        "metadata": {
+          "page": 67,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0067",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 67,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.511,
+        "chunk_id": "openstax_calculus_v1_p0070_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 70,
+        "content": "ians to degrees. \n118 . 119 . 120 . \n121 . 122 . \nEvaluate the following functional values. \n123 . 124 . 125 . \n126 . 127 . 128 . \nFor the following exercises, consider triangle ABC, a right triangle with a right angle at C. a. Find the missing side of the \ntriangle. b. Find the six trigonometric function values for the angle at A. Where necessary, simplify to a fraction or round \nto three decimal places. \n 129 . 130 . \n131 . 132 . 133 . \n62 1 • Functions and Graphs\nAccess for free at openstax.o",
+        "metadata": {
+          "page": 70,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0070",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 70,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.5068,
+        "chunk_id": "openstax_calculus_v1_p0064_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 64,
+        "content": "Table 1.9 Values of \n and at \nMajor Angles in \nthe First Quadrant \nEXAMPLE 1.23 \nEvaluating Trigonometric Functions \nEvaluate each of the following expressions. \na. \nb. \nc. \nSolution \na. On the unit circle, the angle corresponds to the point Therefore, \nb. An angle corresponds to a revolution in the negative direction, as shown. Therefore, \n56 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 64,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0064",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 64,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q011",
+    "filter_section": null,
+    "latency_ms": 61.16,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.6985,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "of the trigonometric functions at and at \n are the same. Consequently, the trigonometric functions are periodic functions. The period of a function is \ndefined to be the smallest positive value such that for all values in the domain of The sine, cosine, \nsecant, and cosecant functions have a period of Since the tangent and cotangent functions repeat on an interval of \nlength their period is (Figure 1.34). \nFigure 1.34 The six trigonometric functions are periodic. \nJust as with algebraic function",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.6123,
+        "chunk_id": "openstax_calculus_v1_p0080_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 80,
+        "content": "r \nInverse Trigonometric Functions \nThe six basic trigonometric functions are periodic, and therefore they are not one-to-one. However, if we restrict the \ndomain of a trigonometric function to an interval where it is one-to-one, we can define its inverse. Consider the sine \nfunction (Figure 1.34). The sine function is one-to-one on an infinite number of intervals, but the standard convention is \nto restrict the domain to the interval By doing so, we define the inverse sine function on the domai",
+        "metadata": {
+          "page": 80,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0080",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 80,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.5525,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 61,
+        "content": "1.3 Trigonometric Functions \nLearning Objectives \n1.3.1 Convert angle measures between degrees and radians. \n1.3.2 Recognize the triangular and circular definitions of the basic trigonometric functions. \n1.3.3 Write the basic trigonometric identities. \n1.3.4 Identify the graphs and periods of the trigonometric functions. \n1.3.5 Describe the shift of a sine or cosine graph from the equation of the function. \nTrigonometric functions are used to model many phenomena, including sound waves, vibratio",
+        "metadata": {
+          "page": 61,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0061",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 61,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q012",
+    "filter_section": null,
+    "latency_ms": 66.0,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.6178,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "ion of day of the year can be modeled by a shifted sine curve. \nEXAMPLE 1.27 \nSketching the Graph of a Transformed Sine Curve \nSketch a graph of \n1.3 • Trigonometric Functions 61",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.584,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "right units, \nand state that \nA shifted sine curve arises naturally when graphing the number of hours of daylight in a given location as a function of \nthe day of the year. For example, suppose a city reports that June 21 is the longest day of the year with hours and \nDecember 21 is the shortest day of the year with hours. It can be shown that the function \nis a model for the number of hours of daylight as a function of day of the year (Figure 1.36). \nFigure 1.36 The hours of daylight as a funct",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.5188,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "(1.10) \nIn Figure 1.35, the constant causes a horizontal or phase shift. The factor changes the period. This transformed sine \nfunction will have a period The factor results in a vertical stretch by a factor of We say is the \n“amplitude of ” The constant causes a vertical shift. \nFigure 1.35 A graph of a general cosine function. \nNotice in Figure 1.34 that the graph of is the graph of shifted to the left units. Therefore, we can \nwrite Similarly, we can view the graph of as the graph of shifted",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q013",
+    "filter_section": null,
+    "latency_ms": 64.86,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.6514,
+        "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 73,
+        "content": "1.4 Inverse Functions \nLearning Objectives \n1.4.1 Determine the conditions for when a function has an inverse. \n1.4.2 Use the horizontal line test to recognize when a function is one-to-one. \n1.4.3 Find the inverse of a given function. \n1.4.4 Draw the graph of an inverse function. \n1.4.5 Evaluate inverse trigonometric functions. \nAn inverse function reverses the operation done by a particular function. In other words, whatever a function does, the \ninverse function undoes it. In this section, we",
+        "metadata": {
+          "page": 73,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0073",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 73,
+          "section_title": "Inverse Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.6448,
+        "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 73,
+        "content": "define an inverse function formally and state the necessary conditions for \nan inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of \na function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse \ntrigonometric functions. \nExistence of an Inverse Function \nWe begin with an example. Given a function and an output we are often interested in finding what value or \nvalues were mapped",
+        "metadata": {
+          "page": 73,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0073",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 73,
+          "section_title": "Inverse Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.6348,
+        "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 74,
+        "content": "of \nRecall that a function has exactly one output for each input. Therefore, to define an inverse function, we need to map \neach input to exactly one output. For example, let’s try to find the inverse function for Solving the equation \n for we arrive at the equation This equation does not describe as a function of because there are \ntwo solutions to this equation for every The problem with trying to find an inverse function for is that \ntwo inputs are sent to the same output for each output The",
+        "metadata": {
+          "page": 74,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0074",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 74,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q014",
+    "filter_section": null,
+    "latency_ms": 55.68,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7724,
+        "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0003",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 74,
+        "content": "to the \nhorizontal line test, it cannot intersect the graph more than once. We note that the horizontal line test is different from \nthe vertical line test. The vertical line test determines whether a graph is the graph of a function. The horizontal line test \ndetermines whether a function is one-to-one (Figure 1.38). \nRule: Horizontal Line Test \nA function is one-to-one if and only if every horizontal line intersects the graph of no more than once. \n66 1 • Functions and Graphs\nAccess for free a",
+        "metadata": {
+          "page": 74,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0074",
+          "section": "1.4",
+          "chunk_index": 3,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 74,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.7397,
+        "chunk_id": "openstax_calculus_v1_p0075_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 75,
+        "content": "Figure 1.38 (a) The function is not one-to-one because it fails the horizontal line test. (b) The function \n is one-to-one because it passes the horizontal line test. \nEXAMPLE 1.28 \nDetermining Whether a Function Is One-to-One \nFor each of the following functions, use the horizontal line test to determine whether it is one-to-one. \na. \nb. \n1.4 • Inverse Functions 67",
+        "metadata": {
+          "page": 75,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0075",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 75,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.6953,
+        "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 74,
+        "content": "function discussed earlier did not have \nthis problem. For that function, each input was sent to a different output. A function that sends each input to a different \noutput is called a one-to-one function. \nDefinition \nWe say a is a one-to-one function if when \nOne way to determine whether a function is one-to-one is by looking at its graph. If a function is one-to-one, then no two \ninputs can be sent to the same output. Therefore, if we draw a horizontal line anywhere in the -plane, according",
+        "metadata": {
+          "page": 74,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0074",
+          "section": "1.4",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 74,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q015",
+    "filter_section": null,
+    "latency_ms": 64.53,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7485,
+        "chunk_id": "openstax_calculus_v1_p0077_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 77,
+        "content": "Finding a Function’s Inverse \nWe can now consider one-to-one functions and show how to find their inverses. Recall that a function maps elements in \nthe domain of to elements in the range of The inverse function maps each element from the range of back to its \ncorresponding element from the domain of Therefore, to find the inverse function of a one-to-one function given \nany in the range of we need to determine which in the domain of satisfies Since is one-to-one, there \nis exactly one such valu",
+        "metadata": {
+          "page": 77,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0077",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 77,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.7063,
+        "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 74,
+        "content": "Definition \nGiven a function with domain and range its inverse function (if it exists) is the function with domain \nand range such that if In other words, for a function and its inverse \n(1.11) \nNote that is read as “f inverse.” Here, the is not used as an exponent and Figure 1.37 shows \nthe relationship between the domain and range of f and the domain and range of \nFigure 1.37 Given a function and its inverse if and only if The range of becomes the \ndomain of and the domain of becomes the range",
+        "metadata": {
+          "page": 74,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0074",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 74,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.7025,
+        "chunk_id": "openstax_calculus_v1_p0079_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 79,
+        "content": "n inverse function for on that domain. For example, since is \none-to-one on the interval ∞ we can define a new function such that the domain of is ∞ and for all \n in its domain. Since is a one-to-one function, it has an inverse function, given by the formula On the \nother hand, the function is also one-to-one on the domain ∞ Therefore, we could also define a new \nfunction such that the domain of is ∞ and for all in the domain of Then is a one-to-one \nfunction and must also have an inverse. Its i",
+        "metadata": {
+          "page": 79,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0079",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 79,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q021",
+    "filter_section": null,
+    "latency_ms": 62.3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.4116,
+        "chunk_id": "openstax_calculus_v1_p0090_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 90,
+        "content": "lify as follows: \n82 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 90,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0090",
+          "section": "1.5",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 90,
+          "section_title": "Exponential and Logarithmic Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.4095,
+        "chunk_id": "openstax_calculus_v1_p0060_s0_paragraph_0003",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 60,
+        "content": "ar was purchased \nfor $26,000. The value of \nthe car depreciates by \n$1500 per year. \na. Find a linear function \nthat models the value \nV of the car after t \nyears. \nb. Find and interpret \n 108 . [T] A condominium in an \nupscale part of the city \nwas purchased for \n$432,000. In 35 years it is \nworth $60,500. Find the \nrate of depreciation. \n 109 . [T] The total cost C to \nproduce a certain item is \nmodeled by the function \nwhere x is the number of \nitems produced. \nDetermine the cost to \nproduce",
+        "metadata": {
+          "page": 60,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0060",
+          "section": "1.2",
+          "chunk_index": 3,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 60,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.4092,
+        "chunk_id": "openstax_calculus_v1_p0096_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 96,
+        "content": "Therefore, Since exponential functions are one-to-one, we can conclude that \n□ \nEXAMPLE 1.38 \nChanging Bases \nUse a calculating utility to evaluate with the change-of-base formula presented earlier. \nSolution \nUse the second equation with and \n 1.32 Use the change-of-base formula and a calculating utility to evaluate \nEXAMPLE 1.39 \nChapter Opener: The Richter Scale for Earthquakes \nFigure 1.48 (credit: modification of work by Robb Hannawacker, NPS) \nIn 1935, Charles Richter developed a scale (",
+        "metadata": {
+          "page": 96,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0096",
+          "section": "1.5",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 96,
+          "section_title": "Exponential and Logarithmic Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "dense",
+    "question_id": "Q022",
+    "filter_section": null,
+    "latency_ms": 59.72,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.488,
+        "chunk_id": "openstax_calculus_v1_p0070_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 70,
+        "content": "ians to degrees. \n118 . 119 . 120 . \n121 . 122 . \nEvaluate the following functional values. \n123 . 124 . 125 . \n126 . 127 . 128 . \nFor the following exercises, consider triangle ABC, a right triangle with a right angle at C. a. Find the missing side of the \ntriangle. b. Find the six trigonometric function values for the angle at A. Where necessary, simplify to a fraction or round \nto three decimal places. \n 129 . 130 . \n131 . 132 . 133 . \n62 1 • Functions and Graphs\nAccess for free at openstax.o",
+        "metadata": {
+          "page": 70,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0070",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 70,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.4755,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.4704,
+        "chunk_id": "openstax_calculus_v1_p0083_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 83,
+        "content": "g maximum values. \nThis project describes a simple example of a function with a maximum value that depends on two equation \ncoefficients. We will see that maximum values can depend on several factors other than the independent variable x. \n1. Consider the graph in Figure 1.42 of the function Describe its overall shape. Is it periodic? How \ndo you know? \nFigure 1.42 The graph of \nUsing a graphing calculator or other graphing device, estimate the - and -values of the maximum point for the \ngraph (",
+        "metadata": {
+          "page": 83,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0083",
+          "section": "1.4",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 83,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q001",
+    "filter_section": null,
+    "latency_ms": 0.46,
+    "results": [
+      {
+        "rank": 1,
+        "score": 15.4057,
+        "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 51,
+        "content": "transcendental function? \nPiecewise-Defined Functions \nSometimes a function is defined by different formulas on different parts of its domain. A function with this property is \nknown as a piecewise-defined function. The absolute value function is an example of a piecewise-defined function \nbecause the formula changes with the sign of \nOther piecewise-defined functions may be represented by completely different formulas, depending on the part of the \ndomain in which a point falls. To graph a pie",
+        "metadata": {
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0051",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 51,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 14.3278,
+        "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 51,
+        "content": "cewise-defined function, we graph each part of the function in its respective \ndomain, on the same coordinate system. If the formula for a function is different for and we need to pay \nspecial attention to what happens at when we graph the function. Sometimes the graph needs to include an open \nor closed circle to indicate the value of the function at We examine this in the next example. \nEXAMPLE 1.19 \nGraphing a Piecewise-Defined Function \nSketch a graph of the following piecewise-defined funct",
+        "metadata": {
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0051",
+          "section": "1.2",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 51,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 11.7839,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "Figure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m. to 12 midnight. \na. Write a piecew",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q002",
+    "filter_section": null,
+    "latency_ms": 0.42,
+    "results": [
+      {
+        "rank": 1,
+        "score": 26.0801,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "ise-defined function that describes the cost to park in the parking garage as a function of hours \nparked \nb. Sketch a graph of this function \nSolution \na. Since the parking garage is open 18 hours each day, the domain for this function is The cost to \npark a car at this parking garage can be described piecewise by the function \nb. The graph of the function consists of several horizontal line segments. \n44 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 25.1083,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "Figure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m. to 12 midnight. \na. Write a piecew",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 12.2427,
+        "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 51,
+        "content": "cewise-defined function, we graph each part of the function in its respective \ndomain, on the same coordinate system. If the formula for a function is different for and we need to pay \nspecial attention to what happens at when we graph the function. Sometimes the graph needs to include an open \nor closed circle to indicate the value of the function at We examine this in the next example. \nEXAMPLE 1.19 \nGraphing a Piecewise-Defined Function \nSketch a graph of the following piecewise-defined funct",
+        "metadata": {
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0051",
+          "section": "1.2",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 51,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q003",
+    "filter_section": null,
+    "latency_ms": 0.42,
+    "results": [
+      {
+        "rank": 1,
+        "score": 18.9205,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "ver, we have not addressed what happens to the graph of the \nfunction if the constant is negative. If we have a constant we can write c as a positive number multiplied by \nbut, what kind of transformation do we get when we multiply the function or its argument by When we multiply all \nthe outputs by we get a reflection about the -axis. When we multiply all inputs by we get a reflection about the \n-axis. For example, the graph of is the graph of reflected about the -axis. The graph of \n is the gr",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 18.8197,
+        "chunk_id": "openstax_calculus_v1_p0053_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 53,
+        "content": "instance, we subtracted 2 from the argument of the function to get the \nfunction This subtraction represents a shift of the function two units to the right. A shift, \nhorizontally or vertically, is a type of transformation of a function. Other transformations include horizontal and \nvertical scalings, and reflections about the axes. \nA vertical shift of a function occurs if we add or subtract the same constant to each output For the graph of \n is a shift of the graph of up units, whereas the gr",
+        "metadata": {
+          "page": 53,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0053",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 53,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 14.594,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "of is the graph of \n compressed horizontally. The graph of is a horizontal stretch of the graph of (Figure 1.26). \nFigure 1.26 (a) If the graph of is a horizontal compression of the graph of (b) If the \ngraph of is a horizontal stretch of the graph of \nWe have explored what happens to the graph of a function when we multiply by a constant to get a new \nfunction We have also discussed what happens to the graph of a function when we multiply the independent \nvariable by to get a new function Howe",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q004",
+    "filter_section": null,
+    "latency_ms": 0.3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 13.7101,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of \n is a vertical compression of the graph of \nThe horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph \nof the function is the graph of scaled horizontally by a factor of If the graph of is the graph of \n compressed horizontally. If the graph of is the graph of stretched horizontally. For example, \nconsider the function and evaluate at Since the graph",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 13.5872,
+        "chunk_id": "openstax_calculus_v1_p0056_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 56,
+        "content": "orizontal scaling of the graph of by a factor of If reflect the graph about the -axis. \n3. Vertical scaling of the graph of by a factor of If reflect the graph about the -axis. \n4. Vertical shift of the graph of If shift up. If shift down. \nWe can summarize the different transformations and their related effects on the graph of a function in the following \ntable. \nTransformation of Effect on the graph of \nVertical shift up units \nVertical shift down units \nShift left by units \nShift right by uni",
+        "metadata": {
+          "page": 56,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0056",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 56,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 12.298,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q005",
+    "filter_section": "1.2",
+    "latency_ms": 0.4,
+    "results": [
+      {
+        "rank": 1,
+        "score": 16.7918,
+        "chunk_id": "openstax_calculus_v1_p0053_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 53,
+        "content": "1.15 The cost of mailing a letter is a function of the weight of the letter. Suppose the cost of mailing a letter is \n for the first ounce and for each additional ounce. Write a piecewise-defined function describing \nthe cost as a function of the weight for where is measured in cents and is measured in \nounces. \nTransformations of Functions \nWe have seen several cases in which we have added, subtracted, or multiplied constants to form variations of simple \nfunctions. In the previous example, for",
+        "metadata": {
+          "page": 53,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0053",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 53,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 15.5498,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "Figure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m. to 12 midnight. \na. Write a piecew",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 14.6059,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q006",
+    "filter_section": null,
+    "latency_ms": 0.38,
+    "results": [
+      {
+        "rank": 1,
+        "score": 11.086,
+        "chunk_id": "openstax_calculus_v1_p0056_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 56,
+        "content": "Figure 1.27 (a) The graph of is the graph of reflected about the -axis. (b) The graph of is \nthe graph of reflected about the \n-axis. \nIf the graph of a function consists of more than one transformation of another graph, it is important to transform the \ngraph in the correct order. Given a function the graph of the related function can be obtained \nfrom the graph of by performing the transformations in the following order. \n1. Horizontal shift of the graph of If shift left. If shift right. \n2. H",
+        "metadata": {
+          "page": 56,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0056",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 56,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 6.7405,
+        "chunk_id": "openstax_calculus_v1_p0093_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 93,
+        "content": "Since the functions and are inverses of each other, \nand their graphs are symmetric about the line (Figure 1.46). \nFigure 1.46 The functions and are inverses of each other, so their graphs are symmetric about the line \n MEDIA \nAt this site (http://www.openstax.org/l/20_logscale) you can see an example of a base-10 logarithmic scale. \nIn general, for any base the function is symmetric about the line with the function \n Using this fact and the graphs of the exponential functions, we graph functi",
+        "metadata": {
+          "page": 93,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0093",
+          "section": "1.5",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 93,
+          "section_title": "Exponential and Logarithmic Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 6.6625,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "Figure 1.23 (a) For the graph of is a vertical shift up units of the graph of (b) For \nthe graph of is a vertical shift down units of the graph of \nA horizontal shift of a function occurs if we add or subtract the same constant to each input For the graph of \n is a shift of the graph of to the left units; the graph of is a shift of the graph of to the right \nunits. Why does the graph shift left when adding a constant and shift right when subtracting a constant? To answer this \nquestion, let’s lo",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q007",
+    "filter_section": null,
+    "latency_ms": 0.35,
+    "results": [
+      {
+        "rank": 1,
+        "score": 10.5094,
+        "chunk_id": "openstax_calculus_v1_p0098_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 98,
+        "content": "Figure 1.49 The shape of a strand of silk in a spider’s web can be described in terms of a hyperbolic function. The same \nshape applies to a chain or cable hanging from two supports with only its own weight. (credit: “Mtpaley”, Wikimedia \nCommons) \nDefinition \nHyperbolic cosine \nHyperbolic sine \nHyperbolic tangent \nHyperbolic cosecant \nHyperbolic secant \nHyperbolic cotangent \nThe name cosh rhymes with “gosh,” whereas the name sinh is pronounced “cinch.” Tanh, sech, csch, and coth are \npronounced",
+        "metadata": {
+          "page": 98,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0098",
+          "section": "1.5",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 98,
+          "section_title": "Exponential and Logarithmic Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 9.4595,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "ion of day of the year can be modeled by a shifted sine curve. \nEXAMPLE 1.27 \nSketching the Graph of a Transformed Sine Curve \nSketch a graph of \n1.3 • Trigonometric Functions 61",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 9.0041,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 61,
+        "content": "ns of strings, alternating \nelectrical current, and the motion of pendulums. In fact, almost any repetitive, or cyclical, motion can be modeled by \nsome combination of trigonometric functions. In this section, we define the six basic trigonometric functions and look at \nsome of the main identities involving these functions. \nRadian Measure \nTo use trigonometric functions, we first must understand how to measure the angles. Although we can use both radians \nand degrees, radians are a more natural",
+        "metadata": {
+          "page": 61,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0061",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 61,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q008",
+    "filter_section": null,
+    "latency_ms": 0.36,
+    "results": [
+      {
+        "rank": 1,
+        "score": 12.5461,
+        "chunk_id": "openstax_calculus_v1_p0062_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 62,
+        "content": "press rad using degrees. \nSolution \nUse the fact that is equivalent to radians as a conversion factor: \na. rad \nb. rad = \n 1.17 Express using radians. Express rad using degrees. \nThe Six Basic Trigonometric Functions \nTrigonometric functions allow us to use angle measures, in radians or degrees, to find the coordinates of a point on any \ncircle—not only on a unit circle—or to find an angle given a point on a circle. They also define the relationship among the \nsides and angles of a triangle. \nTo",
+        "metadata": {
+          "page": 62,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0062",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 62,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 9.0622,
+        "chunk_id": "openstax_calculus_v1_p0083_s0_paragraph_0003",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 83,
+        "content": "the first such point where x > 0). It may be helpful to express the -value as a multiple of π. \n2. Now consider other graphs of the form for various values of A and B. Sketch the graph \nwhen A = 2 and B = 1, and find the - and y-values for the maximum point. (Remember to express the x-value as \na multiple of π, if possible.) Has it moved? \n3. Repeat for A = 1, B = 2. Is there any relationship to what you found in part (2)? \n4. Complete the following table, adding a few choices of your own for A",
+        "metadata": {
+          "page": 83,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0083",
+          "section": "1.4",
+          "chunk_index": 3,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 83,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 7.4716,
+        "chunk_id": "openstax_calculus_v1_p0065_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 65,
+        "content": "of the hypotenuse. By inscribing the triangle \ninto a circle of radius as shown in Figure 1.33, we see that and satisfy the following relationships with \nFigure 1.33 By inscribing a right triangle in a circle, we can express the ratios of the side lengths in terms of the \ntrigonometric functions evaluated at \n1.3 • Trigonometric Functions 57",
+        "metadata": {
+          "page": 65,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0065",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 65,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q009",
+    "filter_section": null,
+    "latency_ms": 0.2,
+    "results": [
+      {
+        "rank": 1,
+        "score": 9.2392,
+        "chunk_id": "openstax_calculus_v1_p0067_s0_paragraph_0003",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 67,
+        "content": "such that or The solutions of the first \nequation are The solutions of the second equation are After \nchecking for extraneous solutions, the set of solutions to the equation is \n 1.20 Find all solutions to the equation \nEXAMPLE 1.26 \nProving a Trigonometric Identity \nProve the trigonometric identity \n1.3 • Trigonometric Functions 59",
+        "metadata": {
+          "page": 67,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0067",
+          "section": "1.3",
+          "chunk_index": 3,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 67,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 8.4024,
+        "chunk_id": "openstax_calculus_v1_p0066_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 66,
+        "content": "nst a house. If the angle between the base of the ladder \nand the ground is to be how far from the house should she place the base of the ladder? \nTrigonometric Identities \nA trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the \nfunctions are defined. We can use the identities to help us solve or simplify equations. The main trigonometric identities \nare listed next. \nRule: Trigonometric Identities \nReciprocal identities \nPythagorean i",
+        "metadata": {
+          "page": 66,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0066",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 66,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 8.2255,
+        "chunk_id": "openstax_calculus_v1_p0066_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 66,
+        "content": "dentities \nAddition and subtraction formulas \nDouble-angle formulas \nEXAMPLE 1.25 \nSolving Trigonometric Equations \nFor each of the following equations, use a trigonometric identity to find all solutions. \na. \nb. \nSolution \na. Using the double-angle formula for we see that is a solution of \nif and only if \n58 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 66,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0066",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 66,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q010",
+    "filter_section": "1.3",
+    "latency_ms": 0.59,
+    "results": [
+      {
+        "rank": 1,
+        "score": 21.9437,
+        "chunk_id": "openstax_calculus_v1_p0067_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 67,
+        "content": "which is true if and only if \nTo solve this equation, it is important to note that we need to factor the left-hand side and not divide both sides of \nthe equation by The problem with dividing by is that it is possible that is zero. In fact, if we did \ndivide both sides of the equation by we would miss some of the solutions of the original equation. Factoring \nthe left-hand side of the equation, we see that is a solution of this equation if and only if \nSince when \nand when \nwe conclude that the",
+        "metadata": {
+          "page": 67,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0067",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 67,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 16.7021,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "Solution \nWe start with the identity \nDividing both sides of this equation by we obtain \nSince and we conclude that \n 1.21 Prove the trigonometric identity \nGraphs and Periods of the Trigonometric Functions \nWe have seen that as we travel around the unit circle, the values of the trigonometric functions repeat. We can see this \npattern in the graphs of the functions. Let be a point on the unit circle and let be the corresponding angle \nSince the angle and correspond to the same point the values",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 15.0168,
+        "chunk_id": "openstax_calculus_v1_p0067_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 67,
+        "content": "ides of the equation by \n However, if we cannot divide both sides of the equation by Therefore, it is possible that we \nmay arrive at extraneous solutions. So, at the end, it is important to check for extraneous solutions. Returning to the \nequation, it is important that we factor out of both terms on the left-hand side instead of dividing both sides of \nthe equation by Factoring the left-hand side of the equation, we can rewrite this equation as \nTherefore, the solutions are given by the angles",
+        "metadata": {
+          "page": 67,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0067",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 67,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q011",
+    "filter_section": null,
+    "latency_ms": 0.25,
+    "results": [
+      {
+        "rank": 1,
+        "score": 13.4962,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "of the trigonometric functions at and at \n are the same. Consequently, the trigonometric functions are periodic functions. The period of a function is \ndefined to be the smallest positive value such that for all values in the domain of The sine, cosine, \nsecant, and cosecant functions have a period of Since the tangent and cotangent functions repeat on an interval of \nlength their period is (Figure 1.34). \nFigure 1.34 The six trigonometric functions are periodic. \nJust as with algebraic function",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 11.0384,
+        "chunk_id": "openstax_calculus_v1_p0098_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 98,
+        "content": "“tanch,” “seech,” “coseech,” and “cotanch,” respectively. \nUsing the definition of and principles of physics, it can be shown that the height of a hanging chain, such as the \none in Figure 1.49, can be described by the function for certain constants and \nBut why are these functions called hyperbolic functions? To answer this question, consider the quantity \nUsing the definition of and we see that \n90 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 98,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0098",
+          "section": "1.5",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 98,
+          "section_title": "Exponential and Logarithmic Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 10.136,
+        "chunk_id": "openstax_calculus_v1_p0080_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 80,
+        "content": "r \nInverse Trigonometric Functions \nThe six basic trigonometric functions are periodic, and therefore they are not one-to-one. However, if we restrict the \ndomain of a trigonometric function to an interval where it is one-to-one, we can define its inverse. Consider the sine \nfunction (Figure 1.34). The sine function is one-to-one on an infinite number of intervals, but the standard convention is \nto restrict the domain to the interval By doing so, we define the inverse sine function on the domai",
+        "metadata": {
+          "page": 80,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0080",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 80,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q012",
+    "filter_section": null,
+    "latency_ms": 0.36,
+    "results": [
+      {
+        "rank": 1,
+        "score": 23.0266,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "ion of day of the year can be modeled by a shifted sine curve. \nEXAMPLE 1.27 \nSketching the Graph of a Transformed Sine Curve \nSketch a graph of \n1.3 • Trigonometric Functions 61",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 11.7742,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "right units, \nand state that \nA shifted sine curve arises naturally when graphing the number of hours of daylight in a given location as a function of \nthe day of the year. For example, suppose a city reports that June 21 is the longest day of the year with hours and \nDecember 21 is the shortest day of the year with hours. It can be shown that the function \nis a model for the number of hours of daylight as a function of day of the year (Figure 1.36). \nFigure 1.36 The hours of daylight as a funct",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 10.4348,
+        "chunk_id": "openstax_calculus_v1_p0098_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 98,
+        "content": "“tanch,” “seech,” “coseech,” and “cotanch,” respectively. \nUsing the definition of and principles of physics, it can be shown that the height of a hanging chain, such as the \none in Figure 1.49, can be described by the function for certain constants and \nBut why are these functions called hyperbolic functions? To answer this question, consider the quantity \nUsing the definition of and we see that \n90 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 98,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0098",
+          "section": "1.5",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 98,
+          "section_title": "Exponential and Logarithmic Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q013",
+    "filter_section": null,
+    "latency_ms": 0.29,
+    "results": [
+      {
+        "rank": 1,
+        "score": 11.9731,
+        "chunk_id": "openstax_calculus_v1_p0082_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 82,
+        "content": "and its inverse. For example, consider the two expressions \n and For the first one, we simplify as follows: \nFor the second one, we have \nThe inverse function is supposed to “undo” the original function, so why isn’t Recalling our definition \nof inverse functions, a function and its inverse satisfy the conditions for all in the domain of \n and for all in the domain of so what happened here? The issue is that the inverse sine function, \n is the inverse of the restricted sine function defined on",
+        "metadata": {
+          "page": 82,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0082",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 82,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 11.7559,
+        "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 73,
+        "content": "define an inverse function formally and state the necessary conditions for \nan inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of \na function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse \ntrigonometric functions. \nExistence of an Inverse Function \nWe begin with an example. Given a function and an output we are often interested in finding what value or \nvalues were mapped",
+        "metadata": {
+          "page": 73,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0073",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 73,
+          "section_title": "Inverse Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 11.3463,
+        "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 73,
+        "content": "to by For example, consider the function Since any output we can \nsolve this equation for to find that the input is This equation defines as a function of Denoting this \nfunction as and writing we see that for any in the domain of \n Thus, this new function, “undid” what the original function did. A function \nwith this property is called the inverse function of the original function. \n1.4 • Inverse Functions 65",
+        "metadata": {
+          "page": 73,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0073",
+          "section": "1.4",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 73,
+          "section_title": "Inverse Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q014",
+    "filter_section": null,
+    "latency_ms": 0.7,
+    "results": [
+      {
+        "rank": 1,
+        "score": 26.7398,
+        "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0003",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 74,
+        "content": "to the \nhorizontal line test, it cannot intersect the graph more than once. We note that the horizontal line test is different from \nthe vertical line test. The vertical line test determines whether a graph is the graph of a function. The horizontal line test \ndetermines whether a function is one-to-one (Figure 1.38). \nRule: Horizontal Line Test \nA function is one-to-one if and only if every horizontal line intersects the graph of no more than once. \n66 1 • Functions and Graphs\nAccess for free a",
+        "metadata": {
+          "page": 74,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0074",
+          "section": "1.4",
+          "chunk_index": 3,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 74,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 26.5265,
+        "chunk_id": "openstax_calculus_v1_p0075_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 75,
+        "content": "Figure 1.38 (a) The function is not one-to-one because it fails the horizontal line test. (b) The function \n is one-to-one because it passes the horizontal line test. \nEXAMPLE 1.28 \nDetermining Whether a Function Is One-to-One \nFor each of the following functions, use the horizontal line test to determine whether it is one-to-one. \na. \nb. \n1.4 • Inverse Functions 67",
+        "metadata": {
+          "page": 75,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0075",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 75,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 20.4602,
+        "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 73,
+        "content": "1.4 Inverse Functions \nLearning Objectives \n1.4.1 Determine the conditions for when a function has an inverse. \n1.4.2 Use the horizontal line test to recognize when a function is one-to-one. \n1.4.3 Find the inverse of a given function. \n1.4.4 Draw the graph of an inverse function. \n1.4.5 Evaluate inverse trigonometric functions. \nAn inverse function reverses the operation done by a particular function. In other words, whatever a function does, the \ninverse function undoes it. In this section, we",
+        "metadata": {
+          "page": 73,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0073",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 73,
+          "section_title": "Inverse Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q015",
+    "filter_section": null,
+    "latency_ms": 0.74,
+    "results": [
+      {
+        "rank": 1,
+        "score": 32.3151,
+        "chunk_id": "openstax_calculus_v1_p0077_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 77,
+        "content": "Finding a Function’s Inverse \nWe can now consider one-to-one functions and show how to find their inverses. Recall that a function maps elements in \nthe domain of to elements in the range of The inverse function maps each element from the range of back to its \ncorresponding element from the domain of Therefore, to find the inverse function of a one-to-one function given \nany in the range of we need to determine which in the domain of satisfies Since is one-to-one, there \nis exactly one such valu",
+        "metadata": {
+          "page": 77,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0077",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 77,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 25.8946,
+        "chunk_id": "openstax_calculus_v1_p0080_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 80,
+        "content": "b. On the interval ∞ is one-to-one. \nThe domain and range of are given by the range and domain of respectively. Therefore, the domain of is \n∞ and the range of is ∞ To find a formula for solve the equation for If \n then Since we are restricting the domain to the interval where we need \n Therefore, Interchanging and we write and conclude that \n 1.26 Consider restricted to the domain ∞ Verify that is one-to-one on this domain. \nDetermine the domain and range of the inverse of and find a formula fo",
+        "metadata": {
+          "page": 80,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0080",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 80,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 24.3107,
+        "chunk_id": "openstax_calculus_v1_p0077_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 77,
+        "content": "graph a function and \nits inverse on the same axes. \nProblem-Solving Strategy \nFinding an Inverse Function \n1. Solve the equation for \n2. Interchange the variables and and write \nEXAMPLE 1.29 \nFinding an Inverse Function \nFind the inverse for the function State the domain and range of the inverse function. Verify that \nSolution \nFollow the steps outlined in the strategy. \nStep 1. If then and \nStep 2. Rewrite as and let \nTherefore, \nSince the domain of is ∞ ∞ the range of is ∞ ∞ Since the range o",
+        "metadata": {
+          "page": 77,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0077",
+          "section": "1.4",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 77,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q021",
+    "filter_section": null,
+    "latency_ms": 0.61,
+    "results": [
+      {
+        "rank": 1,
+        "score": 10.1525,
+        "chunk_id": "openstax_calculus_v1_p0066_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 66,
+        "content": "EXAMPLE 1.24 \nConstructing a Wooden Ramp \nA wooden ramp is to be built with one end on the ground and the other end at the top of a short staircase. If the top of \nthe staircase is ft from the ground and the angle between the ground and the ramp is to be how long does the \nramp need to be? \nSolution \nLet denote the length of the ramp. In the following image, we see that needs to satisfy the equation \nSolving this equation for we see that ft. \n 1.19 A house painter wants to lean a -ft ladder agai",
+        "metadata": {
+          "page": 66,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0066",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 66,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 9.8919,
+        "chunk_id": "openstax_calculus_v1_p0072_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 72,
+        "content": "165 . \n 166 . \nFor the following exercises, find a. the amplitude, b. the period, and c. the phase shift with direction for each function. \n167 . 168 . 169 . \n170 . 171 . 172 . \n173 . [T] The diameter of a \nwheel rolling on the \nground is 40 in. If the \nwheel rotates through an \nangle of how many \ninches does it move? \nApproximate to the \nnearest whole inch. \n 174 . [T] Find the length of the \narc intercepted by central \nangle in a circle of \nradius r. Round to the \nnearest hundredth. \na. cm, \nr",
+        "metadata": {
+          "page": 72,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0072",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 72,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 9.8477,
+        "chunk_id": "openstax_calculus_v1_p0060_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 60,
+        "content": "s and sells them \nat local outdoor festivals. \nFor a music festival, there \nis a fixed cost of $125 to \nset up a cupcake stand. \nThe owner estimates that \nit costs $0.75 to make \neach cupcake. The owner \nis interested in \ndetermining the total cost \n as a function of \nnumber of cupcakes \nmade. \na. Find a linear function \nthat relates cost C to x, \nthe number of \ncupcakes made. \nb. Find the cost to bake \n160 cupcakes. \nc. If the owner sells the \ncupcakes for $1.50 \napiece, how many \ncupcakes does",
+        "metadata": {
+          "page": 60,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0060",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 60,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "bm25",
+    "question_id": "Q022",
+    "filter_section": null,
+    "latency_ms": 0.71,
+    "results": [
+      {
+        "rank": 1,
+        "score": 19.0522,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "of is the graph of \n compressed horizontally. The graph of is a horizontal stretch of the graph of (Figure 1.26). \nFigure 1.26 (a) If the graph of is a horizontal compression of the graph of (b) If the \ngraph of is a horizontal stretch of the graph of \nWe have explored what happens to the graph of a function when we multiply by a constant to get a new \nfunction We have also discussed what happens to the graph of a function when we multiply the independent \nvariable by to get a new function Howe",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 17.6681,
+        "chunk_id": "openstax_calculus_v1_p0077_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 77,
+        "content": "e We can find that value by solving the equation for Doing so, we are able to \nwrite as a function of where the domain of this function is the range of and the range of this new function is the \ndomain of Consequently, this function is the inverse of and we write Since we typically use the variable \n to denote the independent variable and to denote the dependent variable, we often interchange the roles of and \nand write Representing the inverse function in this way is also helpful later when we",
+        "metadata": {
+          "page": 77,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0077",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 77,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 17.4006,
+        "chunk_id": "openstax_calculus_v1_p0059_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 59,
+        "content": "For the following exercises, use the graph of to graph each transformed function \n 92 . \n93 . \nFor the following exercises, for each of the piecewise-defined functions, a. evaluate at the given values of the \nindependent variable and b. sketch the graph. \n94 . 95 . \n96 . 97 . \nFor the following exercises, determine whether the statement is true or false. Explain why. \n98 . is \na transcendental function. \n 99 . is an odd root \nfunction \n 100 . A logarithmic function is \nan algebraic function. \n10",
+        "metadata": {
+          "page": 59,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0059",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 59,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q001",
+    "filter_section": null,
+    "latency_ms": 3.71,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0328,
+        "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 51,
+        "content": "transcendental function? \nPiecewise-Defined Functions \nSometimes a function is defined by different formulas on different parts of its domain. A function with this property is \nknown as a piecewise-defined function. The absolute value function is an example of a piecewise-defined function \nbecause the formula changes with the sign of \nOther piecewise-defined functions may be represented by completely different formulas, depending on the part of the \ndomain in which a point falls. To graph a pie",
+        "metadata": {
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0051",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 51,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0323,
+        "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 51,
+        "content": "cewise-defined function, we graph each part of the function in its respective \ndomain, on the same coordinate system. If the formula for a function is different for and we need to pay \nspecial attention to what happens at when we graph the function. Sometimes the graph needs to include an open \nor closed circle to indicate the value of the function at We examine this in the next example. \nEXAMPLE 1.19 \nGraphing a Piecewise-Defined Function \nSketch a graph of the following piecewise-defined funct",
+        "metadata": {
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0051",
+          "section": "1.2",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 51,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0317,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "Figure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m. to 12 midnight. \na. Write a piecew",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q002",
+    "filter_section": null,
+    "latency_ms": 3.29,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0325,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "Figure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m. to 12 midnight. \na. Write a piecew",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0325,
+        "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 52,
+        "content": "ise-defined function that describes the cost to park in the parking garage as a function of hours \nparked \nb. Sketch a graph of this function \nSolution \na. Since the parking garage is open 18 hours each day, the domain for this function is The cost to \npark a car at this parking garage can be described piecewise by the function \nb. The graph of the function consists of several horizontal line segments. \n44 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0052",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 52,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.031,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "right units, \nand state that \nA shifted sine curve arises naturally when graphing the number of hours of daylight in a given location as a function of \nthe day of the year. For example, suppose a city reports that June 21 is the longest day of the year with hours and \nDecember 21 is the shortest day of the year with hours. It can be shown that the function \nis a model for the number of hours of daylight as a function of day of the year (Figure 1.36). \nFigure 1.36 The hours of daylight as a funct",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q003",
+    "filter_section": null,
+    "latency_ms": 3.45,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0323,
+        "chunk_id": "openstax_calculus_v1_p0053_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 53,
+        "content": "instance, we subtracted 2 from the argument of the function to get the \nfunction This subtraction represents a shift of the function two units to the right. A shift, \nhorizontally or vertically, is a type of transformation of a function. Other transformations include horizontal and \nvertical scalings, and reflections about the axes. \nA vertical shift of a function occurs if we add or subtract the same constant to each output For the graph of \n is a shift of the graph of up units, whereas the gr",
+        "metadata": {
+          "page": 53,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0053",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 53,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0307,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "ver, we have not addressed what happens to the graph of the \nfunction if the constant is negative. If we have a constant we can write c as a positive number multiplied by \nbut, what kind of transformation do we get when we multiply the function or its argument by When we multiply all \nthe outputs by we get a reflection about the -axis. When we multiply all inputs by we get a reflection about the \n-axis. For example, the graph of is the graph of reflected about the -axis. The graph of \n is the gr",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0303,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "Figure 1.23 (a) For the graph of is a vertical shift up units of the graph of (b) For \nthe graph of is a vertical shift down units of the graph of \nA horizontal shift of a function occurs if we add or subtract the same constant to each input For the graph of \n is a shift of the graph of to the left units; the graph of is a shift of the graph of to the right \nunits. Why does the graph shift left when adding a constant and shift right when subtracting a constant? To answer this \nquestion, let’s lo",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q004",
+    "filter_section": null,
+    "latency_ms": 2.53,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0325,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of \n is a vertical compression of the graph of \nThe horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph \nof the function is the graph of scaled horizontally by a factor of If the graph of is the graph of \n compressed horizontally. If the graph of is the graph of stretched horizontally. For example, \nconsider the function and evaluate at Since the graph",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0323,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0318,
+        "chunk_id": "openstax_calculus_v1_p0056_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 56,
+        "content": "orizontal scaling of the graph of by a factor of If reflect the graph about the -axis. \n3. Vertical scaling of the graph of by a factor of If reflect the graph about the -axis. \n4. Vertical shift of the graph of If shift up. If shift down. \nWe can summarize the different transformations and their related effects on the graph of a function in the following \ntable. \nTransformation of Effect on the graph of \nVertical shift up units \nVertical shift down units \nShift left by units \nShift right by uni",
+        "metadata": {
+          "page": 56,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0056",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 56,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q005",
+    "filter_section": "1.2",
+    "latency_ms": 2.07,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.032,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "ok at an example. \nConsider the function and evaluate this function at Since and the graph \nof is the graph of shifted left 3 units. Similarly, the graph of is the graph of \nshifted right units (Figure 1.24). \nFigure 1.24 (a) For the graph of is a horizontal shift left units of the graph of (b) For \nthe graph of is a horizontal shift right units of the graph of \nA vertical scaling of a graph occurs if we multiply all outputs of a function by the same positive constant. For the \ngraph of the func",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0309,
+        "chunk_id": "openstax_calculus_v1_p0055_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 55,
+        "content": "Figure 1.25 (a) If the graph of is a vertical stretch of the graph of (b) If the graph of \n is a vertical compression of the graph of \nThe horizontal scaling of a function occurs if we multiply the inputs by the same positive constant. For the graph \nof the function is the graph of scaled horizontally by a factor of If the graph of is the graph of \n compressed horizontally. If the graph of is the graph of stretched horizontally. For example, \nconsider the function and evaluate at Since the graph",
+        "metadata": {
+          "page": 55,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0055",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 55,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0308,
+        "chunk_id": "openstax_calculus_v1_p0058_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 58,
+        "content": "1.16 Describe how the function can be graphed using the graph of and a \nsequence of transformations. \n SECTION 1.2 EXERCISES \nFor the following exercises, for each pair of points, a. find the slope of the line passing through the points and b. indicate \nwhether the line is increasing, decreasing, horizontal, or vertical. \n59 . and 60 . and 61 . and \n62 . and 63 . and 64 . and \n65 . and 66 . and \nFor the following exercises, write the equation of the line satisfying the given conditions in slope-",
+        "metadata": {
+          "page": 58,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0058",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 58,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q006",
+    "filter_section": null,
+    "latency_ms": 2.92,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0328,
+        "chunk_id": "openstax_calculus_v1_p0056_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 56,
+        "content": "Figure 1.27 (a) The graph of is the graph of reflected about the -axis. (b) The graph of is \nthe graph of reflected about the \n-axis. \nIf the graph of a function consists of more than one transformation of another graph, it is important to transform the \ngraph in the correct order. Given a function the graph of the related function can be obtained \nfrom the graph of by performing the transformations in the following order. \n1. Horizontal shift of the graph of If shift left. If shift right. \n2. H",
+        "metadata": {
+          "page": 56,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0056",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 56,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.032,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "Figure 1.23 (a) For the graph of is a vertical shift up units of the graph of (b) For \nthe graph of is a vertical shift down units of the graph of \nA horizontal shift of a function occurs if we add or subtract the same constant to each input For the graph of \n is a shift of the graph of to the left units; the graph of is a shift of the graph of to the right \nunits. Why does the graph shift left when adding a constant and shift right when subtracting a constant? To answer this \nquestion, let’s lo",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.031,
+        "chunk_id": "openstax_calculus_v1_p0056_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 56,
+        "content": "orizontal scaling of the graph of by a factor of If reflect the graph about the -axis. \n3. Vertical scaling of the graph of by a factor of If reflect the graph about the -axis. \n4. Vertical shift of the graph of If shift up. If shift down. \nWe can summarize the different transformations and their related effects on the graph of a function in the following \ntable. \nTransformation of Effect on the graph of \nVertical shift up units \nVertical shift down units \nShift left by units \nShift right by uni",
+        "metadata": {
+          "page": 56,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0056",
+          "section": "1.2",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 56,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q007",
+    "filter_section": null,
+    "latency_ms": 3.28,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.032,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 61,
+        "content": "1.3 Trigonometric Functions \nLearning Objectives \n1.3.1 Convert angle measures between degrees and radians. \n1.3.2 Recognize the triangular and circular definitions of the basic trigonometric functions. \n1.3.3 Write the basic trigonometric identities. \n1.3.4 Identify the graphs and periods of the trigonometric functions. \n1.3.5 Describe the shift of a sine or cosine graph from the equation of the function. \nTrigonometric functions are used to model many phenomena, including sound waves, vibratio",
+        "metadata": {
+          "page": 61,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0061",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 61,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.032,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 61,
+        "content": "ns of strings, alternating \nelectrical current, and the motion of pendulums. In fact, almost any repetitive, or cyclical, motion can be modeled by \nsome combination of trigonometric functions. In this section, we define the six basic trigonometric functions and look at \nsome of the main identities involving these functions. \nRadian Measure \nTo use trigonometric functions, we first must understand how to measure the angles. Although we can use both radians \nand degrees, radians are a more natural",
+        "metadata": {
+          "page": 61,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0061",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 61,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0313,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "ion of day of the year can be modeled by a shifted sine curve. \nEXAMPLE 1.27 \nSketching the Graph of a Transformed Sine Curve \nSketch a graph of \n1.3 • Trigonometric Functions 61",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q008",
+    "filter_section": null,
+    "latency_ms": 3.11,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0305,
+        "chunk_id": "openstax_calculus_v1_p0062_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 62,
+        "content": "press rad using degrees. \nSolution \nUse the fact that is equivalent to radians as a conversion factor: \na. rad \nb. rad = \n 1.17 Express using radians. Express rad using degrees. \nThe Six Basic Trigonometric Functions \nTrigonometric functions allow us to use angle measures, in radians or degrees, to find the coordinates of a point on any \ncircle—not only on a unit circle—or to find an angle given a point on a circle. They also define the relationship among the \nsides and angles of a triangle. \nTo",
+        "metadata": {
+          "page": 62,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0062",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 62,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0298,
+        "chunk_id": "openstax_calculus_v1_p0065_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 65,
+        "content": "of the hypotenuse. By inscribing the triangle \ninto a circle of radius as shown in Figure 1.33, we see that and satisfy the following relationships with \nFigure 1.33 By inscribing a right triangle in a circle, we can express the ratios of the side lengths in terms of the \ntrigonometric functions evaluated at \n1.3 • Trigonometric Functions 57",
+        "metadata": {
+          "page": 65,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0065",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 65,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0297,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "of the trigonometric functions at and at \n are the same. Consequently, the trigonometric functions are periodic functions. The period of a function is \ndefined to be the smallest positive value such that for all values in the domain of The sine, cosine, \nsecant, and cosecant functions have a period of Since the tangent and cotangent functions repeat on an interval of \nlength their period is (Figure 1.34). \nFigure 1.34 The six trigonometric functions are periodic. \nJust as with algebraic function",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q009",
+    "filter_section": null,
+    "latency_ms": 3.37,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0325,
+        "chunk_id": "openstax_calculus_v1_p0066_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 66,
+        "content": "nst a house. If the angle between the base of the ladder \nand the ground is to be how far from the house should she place the base of the ladder? \nTrigonometric Identities \nA trigonometric identity is an equation involving trigonometric functions that is true for all angles for which the \nfunctions are defined. We can use the identities to help us solve or simplify equations. The main trigonometric identities \nare listed next. \nRule: Trigonometric Identities \nReciprocal identities \nPythagorean i",
+        "metadata": {
+          "page": 66,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0066",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 66,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0318,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "Solution \nWe start with the identity \nDividing both sides of this equation by we obtain \nSince and we conclude that \n 1.21 Prove the trigonometric identity \nGraphs and Periods of the Trigonometric Functions \nWe have seen that as we travel around the unit circle, the values of the trigonometric functions repeat. We can see this \npattern in the graphs of the functions. Let be a point on the unit circle and let be the corresponding angle \nSince the angle and correspond to the same point the values",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0315,
+        "chunk_id": "openstax_calculus_v1_p0066_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 66,
+        "content": "dentities \nAddition and subtraction formulas \nDouble-angle formulas \nEXAMPLE 1.25 \nSolving Trigonometric Equations \nFor each of the following equations, use a trigonometric identity to find all solutions. \na. \nb. \nSolution \na. Using the double-angle formula for we see that is a solution of \nif and only if \n58 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "page": 66,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0066",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 66,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q010",
+    "filter_section": "1.3",
+    "latency_ms": 3.24,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0328,
+        "chunk_id": "openstax_calculus_v1_p0067_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 67,
+        "content": "which is true if and only if \nTo solve this equation, it is important to note that we need to factor the left-hand side and not divide both sides of \nthe equation by The problem with dividing by is that it is possible that is zero. In fact, if we did \ndivide both sides of the equation by we would miss some of the solutions of the original equation. Factoring \nthe left-hand side of the equation, we see that is a solution of this equation if and only if \nSince when \nand when \nwe conclude that the",
+        "metadata": {
+          "page": 67,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0067",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 67,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0313,
+        "chunk_id": "openstax_calculus_v1_p0067_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 67,
+        "content": "ides of the equation by \n However, if we cannot divide both sides of the equation by Therefore, it is possible that we \nmay arrive at extraneous solutions. So, at the end, it is important to check for extraneous solutions. Returning to the \nequation, it is important that we factor out of both terms on the left-hand side instead of dividing both sides of \nthe equation by Factoring the left-hand side of the equation, we can rewrite this equation as \nTherefore, the solutions are given by the angles",
+        "metadata": {
+          "page": 67,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0067",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 67,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0302,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "Solution \nWe start with the identity \nDividing both sides of this equation by we obtain \nSince and we conclude that \n 1.21 Prove the trigonometric identity \nGraphs and Periods of the Trigonometric Functions \nWe have seen that as we travel around the unit circle, the values of the trigonometric functions repeat. We can see this \npattern in the graphs of the functions. Let be a point on the unit circle and let be the corresponding angle \nSince the angle and correspond to the same point the values",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q011",
+    "filter_section": null,
+    "latency_ms": 2.88,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0328,
+        "chunk_id": "openstax_calculus_v1_p0068_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 68,
+        "content": "of the trigonometric functions at and at \n are the same. Consequently, the trigonometric functions are periodic functions. The period of a function is \ndefined to be the smallest positive value such that for all values in the domain of The sine, cosine, \nsecant, and cosecant functions have a period of Since the tangent and cotangent functions repeat on an interval of \nlength their period is (Figure 1.34). \nFigure 1.34 The six trigonometric functions are periodic. \nJust as with algebraic function",
+        "metadata": {
+          "page": 68,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0068",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 68,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.032,
+        "chunk_id": "openstax_calculus_v1_p0080_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 80,
+        "content": "r \nInverse Trigonometric Functions \nThe six basic trigonometric functions are periodic, and therefore they are not one-to-one. However, if we restrict the \ndomain of a trigonometric function to an interval where it is one-to-one, we can define its inverse. Consider the sine \nfunction (Figure 1.34). The sine function is one-to-one on an infinite number of intervals, but the standard convention is \nto restrict the domain to the interval By doing so, we define the inverse sine function on the domai",
+        "metadata": {
+          "page": 80,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0080",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 80,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0308,
+        "chunk_id": "openstax_calculus_v1_p0061_s1_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 61,
+        "content": "1.3 Trigonometric Functions \nLearning Objectives \n1.3.1 Convert angle measures between degrees and radians. \n1.3.2 Recognize the triangular and circular definitions of the basic trigonometric functions. \n1.3.3 Write the basic trigonometric identities. \n1.3.4 Identify the graphs and periods of the trigonometric functions. \n1.3.5 Describe the shift of a sine or cosine graph from the equation of the function. \nTrigonometric functions are used to model many phenomena, including sound waves, vibratio",
+        "metadata": {
+          "page": 61,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0061",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 61,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q012",
+    "filter_section": null,
+    "latency_ms": 3.48,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0328,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "ion of day of the year can be modeled by a shifted sine curve. \nEXAMPLE 1.27 \nSketching the Graph of a Transformed Sine Curve \nSketch a graph of \n1.3 • Trigonometric Functions 61",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0323,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "right units, \nand state that \nA shifted sine curve arises naturally when graphing the number of hours of daylight in a given location as a function of \nthe day of the year. For example, suppose a city reports that June 21 is the longest day of the year with hours and \nDecember 21 is the shortest day of the year with hours. It can be shown that the function \nis a model for the number of hours of daylight as a function of day of the year (Figure 1.36). \nFigure 1.36 The hours of daylight as a funct",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0313,
+        "chunk_id": "openstax_calculus_v1_p0069_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 69,
+        "content": "(1.10) \nIn Figure 1.35, the constant causes a horizontal or phase shift. The factor changes the period. This transformed sine \nfunction will have a period The factor results in a vertical stretch by a factor of We say is the \n“amplitude of ” The constant causes a vertical shift. \nFigure 1.35 A graph of a general cosine function. \nNotice in Figure 1.34 that the graph of is the graph of shifted to the left units. Therefore, we can \nwrite Similarly, we can view the graph of as the graph of shifted",
+        "metadata": {
+          "page": 69,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0069",
+          "section": "1.3",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 69,
+          "section_title": "Trigonometric Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q013",
+    "filter_section": null,
+    "latency_ms": 3.46,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0323,
+        "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 73,
+        "content": "define an inverse function formally and state the necessary conditions for \nan inverse function to exist. We examine how to find an inverse function and study the relationship between the graph of \na function and the graph of its inverse. Then we apply these ideas to define and discuss properties of the inverse \ntrigonometric functions. \nExistence of an Inverse Function \nWe begin with an example. Given a function and an output we are often interested in finding what value or \nvalues were mapped",
+        "metadata": {
+          "page": 73,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0073",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 73,
+          "section_title": "Inverse Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.032,
+        "chunk_id": "openstax_calculus_v1_p0082_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 82,
+        "content": "and its inverse. For example, consider the two expressions \n and For the first one, we simplify as follows: \nFor the second one, we have \nThe inverse function is supposed to “undo” the original function, so why isn’t Recalling our definition \nof inverse functions, a function and its inverse satisfy the conditions for all in the domain of \n and for all in the domain of so what happened here? The issue is that the inverse sine function, \n is the inverse of the restricted sine function defined on",
+        "metadata": {
+          "page": 82,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0082",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 82,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0303,
+        "chunk_id": "openstax_calculus_v1_p0073_s1_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 73,
+        "content": "1.4 Inverse Functions \nLearning Objectives \n1.4.1 Determine the conditions for when a function has an inverse. \n1.4.2 Use the horizontal line test to recognize when a function is one-to-one. \n1.4.3 Find the inverse of a given function. \n1.4.4 Draw the graph of an inverse function. \n1.4.5 Evaluate inverse trigonometric functions. \nAn inverse function reverses the operation done by a particular function. In other words, whatever a function does, the \ninverse function undoes it. In this section, we",
+        "metadata": {
+          "page": 73,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0073",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 73,
+          "section_title": "Inverse Functions",
+          "segment_index": 1,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q014",
+    "filter_section": null,
+    "latency_ms": 3.52,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0328,
+        "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0003",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 74,
+        "content": "to the \nhorizontal line test, it cannot intersect the graph more than once. We note that the horizontal line test is different from \nthe vertical line test. The vertical line test determines whether a graph is the graph of a function. The horizontal line test \ndetermines whether a function is one-to-one (Figure 1.38). \nRule: Horizontal Line Test \nA function is one-to-one if and only if every horizontal line intersects the graph of no more than once. \n66 1 • Functions and Graphs\nAccess for free a",
+        "metadata": {
+          "page": 74,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0074",
+          "section": "1.4",
+          "chunk_index": 3,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 74,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0323,
+        "chunk_id": "openstax_calculus_v1_p0075_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 75,
+        "content": "Figure 1.38 (a) The function is not one-to-one because it fails the horizontal line test. (b) The function \n is one-to-one because it passes the horizontal line test. \nEXAMPLE 1.28 \nDetermining Whether a Function Is One-to-One \nFor each of the following functions, use the horizontal line test to determine whether it is one-to-one. \na. \nb. \n1.4 • Inverse Functions 67",
+        "metadata": {
+          "page": 75,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0075",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 75,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0315,
+        "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 74,
+        "content": "function discussed earlier did not have \nthis problem. For that function, each input was sent to a different output. A function that sends each input to a different \noutput is called a one-to-one function. \nDefinition \nWe say a is a one-to-one function if when \nOne way to determine whether a function is one-to-one is by looking at its graph. If a function is one-to-one, then no two \ninputs can be sent to the same output. Therefore, if we draw a horizontal line anywhere in the -plane, according",
+        "metadata": {
+          "page": 74,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0074",
+          "section": "1.4",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 74,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q015",
+    "filter_section": null,
+    "latency_ms": 3.46,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0328,
+        "chunk_id": "openstax_calculus_v1_p0077_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 77,
+        "content": "Finding a Function’s Inverse \nWe can now consider one-to-one functions and show how to find their inverses. Recall that a function maps elements in \nthe domain of to elements in the range of The inverse function maps each element from the range of back to its \ncorresponding element from the domain of Therefore, to find the inverse function of a one-to-one function given \nany in the range of we need to determine which in the domain of satisfies Since is one-to-one, there \nis exactly one such valu",
+        "metadata": {
+          "page": 77,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0077",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 77,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0315,
+        "chunk_id": "openstax_calculus_v1_p0079_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 79,
+        "content": "n inverse function for on that domain. For example, since is \none-to-one on the interval ∞ we can define a new function such that the domain of is ∞ and for all \n in its domain. Since is a one-to-one function, it has an inverse function, given by the formula On the \nother hand, the function is also one-to-one on the domain ∞ Therefore, we could also define a new \nfunction such that the domain of is ∞ and for all in the domain of Then is a one-to-one \nfunction and must also have an inverse. Its i",
+        "metadata": {
+          "page": 79,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0079",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 79,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0311,
+        "chunk_id": "openstax_calculus_v1_p0074_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 74,
+        "content": "Definition \nGiven a function with domain and range its inverse function (if it exists) is the function with domain \nand range such that if In other words, for a function and its inverse \n(1.11) \nNote that is read as “f inverse.” Here, the is not used as an exponent and Figure 1.37 shows \nthe relationship between the domain and range of f and the domain and range of \nFigure 1.37 Given a function and its inverse if and only if The range of becomes the \ndomain of and the domain of becomes the range",
+        "metadata": {
+          "page": 74,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0074",
+          "section": "1.4",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 74,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q021",
+    "filter_section": null,
+    "latency_ms": 3.46,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0259,
+        "chunk_id": "openstax_calculus_v1_p0054_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 54,
+        "content": "Figure 1.23 (a) For the graph of is a vertical shift up units of the graph of (b) For \nthe graph of is a vertical shift down units of the graph of \nA horizontal shift of a function occurs if we add or subtract the same constant to each input For the graph of \n is a shift of the graph of to the left units; the graph of is a shift of the graph of to the right \nunits. Why does the graph shift left when adding a constant and shift right when subtracting a constant? To answer this \nquestion, let’s lo",
+        "metadata": {
+          "page": 54,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0054",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 54,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.0255,
+        "chunk_id": "openstax_calculus_v1_p0095_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 95,
+        "content": "esired base If you need to use a calculator to evaluate an expression with \na different base, you can apply the change-of-base formulas first. Using this change of base, we typically write a given \nexponential or logarithmic function in terms of the natural exponential and natural logarithmic functions. \nRule: Change-of-Base Formulas \nLet and \n1. for any real number \nIf this equation reduces to \n1.5 • Exponential and Logarithmic Functions 87",
+        "metadata": {
+          "page": 95,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0095",
+          "section": "1.5",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 95,
+          "section_title": "Exponential and Logarithmic Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0255,
+        "chunk_id": "openstax_calculus_v1_p0083_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 83,
+        "content": "g maximum values. \nThis project describes a simple example of a function with a maximum value that depends on two equation \ncoefficients. We will see that maximum values can depend on several factors other than the independent variable x. \n1. Consider the graph in Figure 1.42 of the function Describe its overall shape. Is it periodic? How \ndo you know? \nFigure 1.42 The graph of \nUsing a graphing calculator or other graphing device, estimate the - and -values of the maximum point for the \ngraph (",
+        "metadata": {
+          "page": 83,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0083",
+          "section": "1.4",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 83,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  },
+  {
+    "method": "hybrid",
+    "question_id": "Q022",
+    "filter_section": null,
+    "latency_ms": 3.83,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.0315,
+        "chunk_id": "openstax_calculus_v1_p0083_s0_paragraph_0002",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 83,
+        "content": "g maximum values. \nThis project describes a simple example of a function with a maximum value that depends on two equation \ncoefficients. We will see that maximum values can depend on several factors other than the independent variable x. \n1. Consider the graph in Figure 1.42 of the function Describe its overall shape. Is it periodic? How \ndo you know? \nFigure 1.42 The graph of \nUsing a graphing calculator or other graphing device, estimate the - and -values of the maximum point for the \ngraph (",
+        "metadata": {
+          "page": 83,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0083",
+          "section": "1.4",
+          "chunk_index": 2,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 83,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0.03,
+        "chunk_id": "openstax_calculus_v1_p0077_s0_paragraph_0001",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 77,
+        "content": "e We can find that value by solving the equation for Doing so, we are able to \nwrite as a function of where the domain of this function is the range of and the range of this new function is the \ndomain of Consequently, this function is the inverse of and we write Since we typically use the variable \n to denote the independent variable and to denote the dependent variable, we often interchange the roles of and \nand write Representing the inverse function in this way is also helpful later when we",
+        "metadata": {
+          "page": 77,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0077",
+          "section": "1.4",
+          "chunk_index": 1,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 77,
+          "section_title": "Inverse Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0.0279,
+        "chunk_id": "openstax_calculus_v1_p0059_s0_paragraph_0000",
+        "source": "data/calculus_volume_1_openstax.pdf",
+        "page": 59,
+        "content": "For the following exercises, use the graph of to graph each transformed function \n 92 . \n93 . \nFor the following exercises, for each of the piecewise-defined functions, a. evaluate at the given values of the \nindependent variable and b. sketch the graph. \n94 . 95 . \n96 . 97 . \nFor the following exercises, determine whether the statement is true or false. Explain why. \n98 . is \na transcendental function. \n 99 . is an odd root \nfunction \n 100 . A logarithmic function is \nan algebraic function. \n10",
+        "metadata": {
+          "page": 59,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "page_id": "openstax_calculus_v1_p0059",
+          "section": "1.2",
+          "chunk_index": 0,
+          "document_id": "openstax_calculus_v1",
+          "physical_page": 59,
+          "section_title": "Basic Classes of Functions",
+          "segment_index": 0,
+          "chunk_strategy": "paragraph"
+        }
+      }
+    ]
+  }
+]
