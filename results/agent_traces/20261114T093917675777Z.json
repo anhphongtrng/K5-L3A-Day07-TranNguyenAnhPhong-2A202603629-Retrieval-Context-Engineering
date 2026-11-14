@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-11-14T09:39:15.073247+00:00",
+  "question": "What is a piecewise-defined function?",
+  "config": {
+    "top_k": 3,
+    "context_mode": "improved",
+    "context_budget_chars": 3000,
+    "max_retrieval_calls": 1,
+    "strategy": "B",
+    "llm_model": "openai/gpt-4o-mini"
+  },
+  "tool_calls": [
+    {
+      "tool": "hybrid",
+      "query": "What is a piecewise-defined function?",
+      "top_k": 3,
+      "section": null,
+      "latency_ms": 174.5,
+      "results": [
+        {
+          "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0001",
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "section": "1.2",
+          "score": 0.03278688524590164,
+          "content": "transcendental function? \nPiecewise-Defined Functions \nSometimes a function is defined by different formulas on different parts of its domain. A function with this property is \nknown as a piecewise-defined function. The absolute value function is an example of a piecewise-defined function \nbecause the formula changes with the sign of \nOther piecewise-defined functions may be represented by completely different formulas, depending on the part of the \ndomain in which a point falls. To graph a pie"
+        },
+        {
+          "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0002",
+          "page": 51,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "section": "1.2",
+          "score": 0.03225806451612903,
+          "content": "cewise-defined function, we graph each part of the function in its respective \ndomain, on the same coordinate system. If the formula for a function is different for and we need to pay \nspecial attention to what happens at when we graph the function. Sometimes the graph needs to include an open \nor closed circle to indicate the value of the function at We examine this in the next example. \nEXAMPLE 1.19 \nGraphing a Piecewise-Defined Function \nSketch a graph of the following piecewise-defined funct"
+        },
+        {
+          "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+          "page": 52,
+          "source": "data/calculus_volume_1_openstax.pdf",
+          "section": "1.2",
+          "score": 0.031746031746031744,
+          "content": "Figure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m. to 12 midnight. \na. Write a piecew"
+        }
+      ]
+    }
+  ],
+  "error": null,
+  "planning": {
+    "method": "hybrid",
+    "reason": "combined ranking",
+    "query": "What is a piecewise-defined function?",
+    "section": null,
+    "llm": {
+      "content": "{\"method\":\"hybrid\",\"reason\":\"combined ranking\"}",
+      "usage": {
+        "prompt_tokens": 77,
+        "completion_tokens": 11,
+        "total_tokens": 88,
+        "cost": 1.815e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 1.815e-05,
+          "upstream_inference_prompt_cost": 1.155e-05,
+          "upstream_inference_completions_cost": 6.6e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "latency_ms": 1007.59,
+      "model": "openai/gpt-4o-mini"
+    }
+  },
+  "context": "[openstax_calculus_v1_p0051_s0_paragraph_0001]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 51\nSection: 1.2\nContent:\nPiecewise-Defined Functions \nSometimes a function is defined by different formulas on different parts of its domain. A function with this property is \nknown as a piecewise-defined function. The absolute value function is an example of a piecewise-defined function \nbecause the formula changes with the sign of \nOther piecewise-defined functions may be represented by completely different formulas, depending on the part of the \ndomain in which a point falls.\n\n\n[openstax_calculus_v1_p0051_s0_paragraph_0002]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 51\nSection: 1.2\nContent:\ncewise-defined function, we graph each part of the function in its respective \ndomain, on the same coordinate system. If the formula for a function is different for and we need to pay \nspecial attention to what happens at when we graph the function. EXAMPLE 1.19 \nGraphing a Piecewise-Defined Function \nSketch a graph of the following piecewise-defined funct\n\n\n[openstax_calculus_v1_p0052_s0_paragraph_0000]\nSource: data/calculus_volume_1_openstax.pdf\nPage: 52\nSection: 1.2\nContent:\nFigure 1.22 This piecewise-defined function is linear for and quadratic for \n 1.14 Sketch a graph of the function \nEXAMPLE 1.20 \nParking Fees Described by a Piecewise-Defined Function \nIn a big city, drivers are charged variable rates for parking in a parking garage. They are charged $10 for the first hour or \nany part of the first hour and an additional $2 for each hour or part thereof up to a maximum of $30 for the day. The \nparking garage is open from 6 a.m.\n",
+  "context_chars": 1654,
+  "selected_chunks": [
+    {
+      "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0001",
+      "page": 51,
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "section": "1.2",
+      "score": 0.03278688524590164
+    },
+    {
+      "chunk_id": "openstax_calculus_v1_p0051_s0_paragraph_0002",
+      "page": 51,
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "section": "1.2",
+      "score": 0.03225806451612903
+    },
+    {
+      "chunk_id": "openstax_calculus_v1_p0052_s0_paragraph_0000",
+      "page": 52,
+      "source": "data/calculus_volume_1_openstax.pdf",
+      "section": "1.2",
+      "score": 0.031746031746031744
+    }
+  ],
+  "answer": "A piecewise-defined function is a function that is defined by different formulas on different parts of its domain. An example of this is the absolute value function, which changes its formula based on the sign of the input. Other piecewise-defined functions may use completely different formulas depending on the specific part of the domain in which a point falls [openstax_calculus_v1_p0051_s0_paragraph_0001].",
+  "raw_answer": "A piecewise-defined function is a function that is defined by different formulas on different parts of its domain. An example of this is the absolute value function, which changes its formula based on the sign of the input. Other piecewise-defined functions may use completely different formulas depending on the specific part of the domain in which a point falls [openstax_calculus_v1_p0051_s0_paragraph_0001].",
+  "citations": [
+    "openstax_calculus_v1_p0051_s0_paragraph_0001"
+  ],
+  "citation_validation": "valid_ids",
+  "abstained": false,
+  "answer_llm": {
+    "model": "openai/gpt-4o-mini",
+    "usage": {
+      "prompt_tokens": 527,
+      "completion_tokens": 85,
+      "total_tokens": 612,
+      "cost": 0.00013005,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00013005,
+        "upstream_inference_prompt_cost": 7.905e-05,
+        "upstream_inference_completions_cost": 5.1e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "latency_ms": 1416.66
+  },
+  "total_latency_ms": 2602.26
+}

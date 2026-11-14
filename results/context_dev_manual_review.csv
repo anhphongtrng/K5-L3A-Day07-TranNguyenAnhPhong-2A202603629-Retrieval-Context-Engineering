@@ -1,0 +1,35 @@
+﻿question_id,mode,answerable,context_evidence_score_0_2,answer_quality_score_0_2,citation_fully_supported,fully_grounded_answer,correct_abstention,review_notes
+Q001,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q001,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q002,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q002,improved,True,2,1,yes,0,not_applicable,"Context supplies 6 a.m. and 18 operating hours (midnight inferable), but answer omits closing time explicitly; partial answer."
+Q003,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q003,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q004,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q004,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q005,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q005,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q006,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q006,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q007,baseline,True,2,2,no,0,not_applicable,"Both examples correct and supported jointly by paragraph_0000 (sound waves) and paragraph_0001 (pendulum), but citation cites only paragraph_0001."
+Q007,improved,True,2,2,no,0,not_applicable,"Both examples correct and supported jointly by paragraph_0000 (sound waves) and paragraph_0001 (pendulum), but citation cites only paragraph_0001."
+Q008,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q008,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q009,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q009,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q010,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q010,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q011,baseline,True,2,2,no,0,not_applicable,"Core periodicity claim is supported; asserted 2π and π numerical periods are not visible in retrieved context (math omitted in extracted PDF), so numeric details lack source support."
+Q011,improved,True,2,2,no,0,not_applicable,"Core periodicity claim is supported; asserted 2π and π numerical periods are not visible in retrieved context (math omitted in extracted PDF), so numeric details lack source support."
+Q012,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q012,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q013,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q013,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q014,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q014,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q015,baseline,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q015,improved,True,2,2,yes,1,not_applicable,Evidence and cited answer support the core response; no material issue identified in this review.
+Q021,baseline,False,0,2,not_applicable,,yes,Correct abstention: supplied context has no sufficient evidence; no citation required.
+Q021,improved,False,0,2,not_applicable,,yes,Correct abstention: supplied context has no sufficient evidence; no citation required.
+Q022,baseline,False,0,2,not_applicable,,yes,Correct abstention: supplied context has no sufficient evidence; no citation required.
+Q022,improved,False,0,2,not_applicable,,yes,Correct abstention: supplied context has no sufficient evidence; no citation required.
